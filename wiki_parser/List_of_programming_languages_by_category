@@ -1,0 +1,1668 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>List of programming languages by category - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.17wmf1" />
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%7Cmediawiki.legacy.shared%7Cskins.vector&amp;only=styles&amp;skin=vector" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" /><link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;version=20110308T014115Z" type="text/css" media="all" />
+<style type="text/css" media="all">a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:3:f2a9127573a22335c2a9102b208c73e7 */</style><link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=user&amp;only=styles&amp;skin=vector&amp;version=19700101T000001Z" type="text/css" media="all" />
+
+<script type="text/javascript">wgNamespaceNumber=0;wgAction="view";wgPageName="List_of_programming_languages_by_category";wgMainPageTitle="Main Page";wgWikimediaMobileUrl="http:\/\/en.m.wikipedia.org\/wiki";</script><script src="http://bits.wikimedia.org/w/extensions-1.17/WikimediaMobile/MobileRedirect.js?7.2" type="text/javascript"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.17/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr ns-0 ns-subject page-List_of_programming_languages_by_category skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --><script type="text/javascript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e\x3c/p\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">List of programming languages by category</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<table style="margin: 0 0 1em 1em; border: 1px solid #aaaaaa; background: #f9f9f9;" align="right" cellpadding="0" cellspacing="0">
+<tr>
+<th style="padding: 0 5px 0 5px; background:#ccccff" align="center"><a href="/wiki/Programming_language">Programming language</a><br />
+lists</th>
+</tr>
+<tr>
+<td style="font-size: 90%; padding: 0 5px 0 5px; border-top: #aaa 1px solid;">
+<ul>
+<li><a href="/wiki/List_of_programming_languages" title="List of programming languages">Alphabetical</a></li>
+<li><strong class="selflink">Categorical</strong></li>
+<li><a href="/wiki/Timeline_of_programming_languages" title="Timeline of programming languages">Chronological</a></li>
+<li><a href="/wiki/Generational_list_of_programming_languages" title="Generational list of programming languages">Generational</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p>This is a list of <b><a href="/wiki/Programming_language" title="Programming language">programming languages</a></b> grouped by category. Some languages are listed in multiple categories.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Array_languages"><span class="tocnumber">1</span> <span class="toctext">Array languages</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Aspect-oriented_languages"><span class="tocnumber">2</span> <span class="toctext">Aspect-oriented languages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Assembly_languages"><span class="tocnumber">3</span> <span class="toctext">Assembly languages</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Authoring_languages"><span class="tocnumber">4</span> <span class="toctext">Authoring languages</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Command_line_interface_languages"><span class="tocnumber">5</span> <span class="toctext">Command line interface languages</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Compiled_languages"><span class="tocnumber">6</span> <span class="toctext">Compiled languages</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Concurrent_languages"><span class="tocnumber">7</span> <span class="toctext">Concurrent languages</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Curly-bracket_languages"><span class="tocnumber">8</span> <span class="toctext">Curly-bracket languages</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Dataflow_languages"><span class="tocnumber">9</span> <span class="toctext">Dataflow languages</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Data-oriented_languages"><span class="tocnumber">10</span> <span class="toctext">Data-oriented languages</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Data-structured_languages"><span class="tocnumber">11</span> <span class="toctext">Data-structured languages</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Declarative_languages"><span class="tocnumber">12</span> <span class="toctext">Declarative languages</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Esoteric_languages"><span class="tocnumber">13</span> <span class="toctext">Esoteric languages</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Extension_languages"><span class="tocnumber">14</span> <span class="toctext">Extension languages</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Fourth-generation_languages"><span class="tocnumber">15</span> <span class="toctext">Fourth-generation languages</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Functional_languages"><span class="tocnumber">16</span> <span class="toctext">Functional languages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Pure"><span class="tocnumber">16.1</span> <span class="toctext">Pure</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Impure"><span class="tocnumber">16.2</span> <span class="toctext">Impure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Interactive_mode_languages"><span class="tocnumber">17</span> <span class="toctext">Interactive mode languages</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Interpreted_languages"><span class="tocnumber">18</span> <span class="toctext">Interpreted languages</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Iterative_languages"><span class="tocnumber">19</span> <span class="toctext">Iterative languages</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#List-based_languages_.E2.80.93_LISPs"><span class="tocnumber">20</span> <span class="toctext">List-based languages – LISPs</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Little_languages"><span class="tocnumber">21</span> <span class="toctext">Little languages</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Logic-based_languages"><span class="tocnumber">22</span> <span class="toctext">Logic-based languages</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Machine_languages"><span class="tocnumber">23</span> <span class="toctext">Machine languages</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Macro_languages"><span class="tocnumber">24</span> <span class="toctext">Macro languages</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Metaprogramming_languages"><span class="tocnumber">25</span> <span class="toctext">Metaprogramming languages</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#Multiparadigm_languages"><span class="tocnumber">26</span> <span class="toctext">Multiparadigm languages</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#Numerical_analysis"><span class="tocnumber">27</span> <span class="toctext">Numerical analysis</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Non-English-based_languages"><span class="tocnumber">28</span> <span class="toctext">Non-English-based languages</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Object-oriented_class-based_languages"><span class="tocnumber">29</span> <span class="toctext">Object-oriented class-based languages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Multiple_dispatch"><span class="tocnumber">29.1</span> <span class="toctext">Multiple dispatch</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Single_dispatch"><span class="tocnumber">29.2</span> <span class="toctext">Single dispatch</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-34"><a href="#Object-oriented_prototype-based_languages"><span class="tocnumber">30</span> <span class="toctext">Object-oriented prototype-based languages</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#Off-side_rule_languages"><span class="tocnumber">31</span> <span class="toctext">Off-side rule languages</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#Procedural_languages"><span class="tocnumber">32</span> <span class="toctext">Procedural languages</span></a></li>
+<li class="toclevel-1 tocsection-37"><a href="#Reflective_languages"><span class="tocnumber">33</span> <span class="toctext">Reflective languages</span></a></li>
+<li class="toclevel-1 tocsection-38"><a href="#Rule-based_languages"><span class="tocnumber">34</span> <span class="toctext">Rule-based languages</span></a></li>
+<li class="toclevel-1 tocsection-39"><a href="#Scripting_languages"><span class="tocnumber">35</span> <span class="toctext">Scripting languages</span></a></li>
+<li class="toclevel-1 tocsection-40"><a href="#Stack-based_languages"><span class="tocnumber">36</span> <span class="toctext">Stack-based languages</span></a></li>
+<li class="toclevel-1 tocsection-41"><a href="#Synchronous_languages"><span class="tocnumber">37</span> <span class="toctext">Synchronous languages</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#Syntax_handling_languages"><span class="tocnumber">38</span> <span class="toctext">Syntax handling languages</span></a></li>
+<li class="toclevel-1 tocsection-43"><a href="#Visual_languages"><span class="tocnumber">39</span> <span class="toctext">Visual languages</span></a></li>
+<li class="toclevel-1 tocsection-44"><a href="#Wirth_languages"><span class="tocnumber">40</span> <span class="toctext">Wirth languages</span></a></li>
+<li class="toclevel-1 tocsection-45"><a href="#XML-based_languages"><span class="tocnumber">41</span> <span class="toctext">XML-based languages</span></a></li>
+<li class="toclevel-1 tocsection-46"><a href="#See_also"><span class="tocnumber">42</span> <span class="toctext">See also</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Array_languages">Array languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Array_programming_languages">Category:Array programming languages</a></div>
+<p><a href="/wiki/Array_programming">Array programming</a> (also known as <i>vector</i> or <i>multidimensional</i> languages) generalize operations on scalars to apply transparently to vectors, matrices, and higher dimensional arrays.</p>
+<ul>
+<li><a href="/wiki/X10_(programming_language)" title="X10 (programming language)">X10</a></li>
+<li><a href="/wiki/ZPL_(programming_language)" title="ZPL (programming language)">ZPL</a></li>
+</ul>
+<h2><span class="mw-headline" id="Aspect-oriented_languages">Aspect-oriented languages</span></h2>
+<ul>
+<li><a href="/wiki/AspectC%2B%2B">AspectC++</a></li>
+<li><a href="/wiki/AspectJ">AspectJ</a></li>
+<li><a href="http://aspectlua.luaforge.net/" class="external text" rel="nofollow">AspectLua</a> (a <a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a> extension)</li>
+<li><a href="/w/index.php?title=CaesarJ&amp;action=edit&amp;redlink=1" class="new" title="CaesarJ (page does not exist)">CaesarJ</a></li>
+<li><a href="/w/index.php?title=Compose*&amp;action=edit&amp;redlink=1" class="new" title="Compose* (page does not exist)">Compose*</a></li>
+<li><a href="/w/index.php?title=ObjectTeams&amp;action=edit&amp;redlink=1" class="new" title="ObjectTeams (page does not exist)">ObjectTeams</a></li>
+<li><a href="/wiki/E_(programming_language)" title="E (programming language)">E</a></li>
+</ul>
+<h2><span class="mw-headline" id="Assembly_languages">Assembly languages</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/List_of_assemblers" class="mw-redirect" title="List of assemblers">List of assemblers</a></div>
+<p><a href="/wiki/Assembly_language" title="Assembly language">Assembly languages</a> directly correspond to a machine language (see below) in order to allow machine code instructions to be written in a form understandable by humans. Assembly languages allow programmers to use symbolic addresses which are later converted to absolute addresses by the <a href="/wiki/Assembly_language#Assembler" title="Assembly language">assembler</a>. Most assemblers also allow for <a href="/wiki/Macro_(computer_science)" title="Macro (computer science)">macros</a> and <a href="/w/index.php?title=Symbolic_constant&amp;action=edit&amp;redlink=1" class="new" title="Symbolic constant (page does not exist)">symbolic constants</a>.</p>
+<ul>
+<li><a href="/w/index.php?title=ASEM-51&amp;action=edit&amp;redlink=1" class="new" title="ASEM-51 (page does not exist)">ASEM-51</a></li>
+<li><a href="/wiki/AKI" title="AKI" class="mw-redirect"><span>AKI</span></a>&#160;<sup class="noprint Inline-Template" title="Link needs disambiguation" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:WikiProject_Disambiguation/Fixing_links" title="Wikipedia:WikiProject Disambiguation/Fixing links">disambiguation needed</a></i>]</sup> (<i>AvtoKod "Inzhener"</i>, "<a href="/w/index.php?title=Engineer%27s_Autocode&amp;action=edit&amp;redlink=1" class="new" title="Engineer's Autocode (page does not exist)">Engineer's Autocode</a>" for <a href="/wiki/Minsk_family_of_computers">Minsk family of computers</a>)</li>
+<li><a href="/w/index.php?title=ASCENT&amp;action=edit&amp;redlink=1" class="new" title="ASCENT (page does not exist)">ASCENT</a> (ASsembler for CENTral Processor Unit of <a href="/wiki/Control_Data_Corporation">Control Data Corporation</a> computer systems pre-<a href="/wiki/COMPASS">COMPASS</a>)</li>
+<li><a href="/w/index.php?title=ASPER&amp;action=edit&amp;redlink=1" class="new" title="ASPER (page does not exist)">ASPER</a> (ASsembler for PERipheral Processor Units of <a href="/wiki/Control_Data_Corporation">Control Data Corporation</a> computer systems pre-<a href="/wiki/COMPASS">COMPASS</a>)</li>
+<li><a href="/w/index.php?title=AUTOCODER&amp;action=edit&amp;redlink=1" class="new" title="AUTOCODER (page does not exist)">AUTOCODER</a> (for IBM 1401 and 1440 mainframe systems)</li>
+<li><a href="/wiki/IBM_Basic_assembly_language" title="IBM Basic assembly language">BAL</a> (Basic AssembLer) - for <a href="/wiki/IBM_System/360">IBM System/360</a> and later mainframe systems</li>
+<li><a href="/wiki/C--">C--</a> (name used by a few languages that bring C language closer to Assembly)</li>
+<li><a href="/wiki/COMPASS">COMPASS</a> (COMPrehensive ASSembler)</li>
+<li><a href="/w/index.php?title=Emu8086&amp;action=edit&amp;redlink=1" class="new" title="Emu8086 (page does not exist)">Emu8086</a> <a href="http://www.emu8086.com/" class="external autonumber" rel="nofollow">[1]</a> (<a href="/wiki/X86_assembly_language" title="X86 assembly language">x86 assembler</a> and <a href="/wiki/Intel_Corporation" title="Intel Corporation">Intel</a>'s 8086 microprocessor emulator)</li>
+<li><a href="/w/index.php?title=EDTASM&amp;action=edit&amp;redlink=1" class="new" title="EDTASM (page does not exist)">EDTASM</a> (<a href="/wiki/Microsoft">Microsoft</a> editor/assembler for <a href="/wiki/Motorola_6809">Motorola 6809</a> on the <a href="/wiki/TRS-80_Color_Computer" title="TRS-80 Color Computer">Color Computer</a>)</li>
+<li><a href="/wiki/IBM_700/7000_series" title="IBM 700/7000 series">FAP</a> (<a href="/wiki/Fortran">Fortran</a> Assembly Program, for <a href="/wiki/IBM_700/7000_series#Scientific_Architecture_.28704.2F709.2F7090.2F7094.29" title="IBM 700/7000 series">IBM 709, 7090, 7094</a> mainframes)</li>
+<li><a href="/wiki/FASM">FASM</a> (Flat Assembler; <a href="/wiki/IA-32">IA-32</a>, <a href="/wiki/Itanium" title="Itanium">IA-64</a>)</li>
+<li><a href="/wiki/GNU_Assembler" title="GNU Assembler">GAS</a> (GNU Assembler)</li>
+<li><a href="/wiki/High_Level_Assembly" title="High Level Assembly">HLA</a> (High Level Assembly)</li>
+<li><a href="/wiki/High-level_assembler" title="High-level assembler">HLASM</a> (High Level Assembler, for <a href="/wiki/Mainframe_computer" title="Mainframe computer">mainframes</a>)</li>
+<li><a href="/wiki/LC-3">LC-3</a></li>
+<li><a href="/wiki/Linoleum_(programming_language)" title="Linoleum (programming language)">Linoleum</a> (for cross-platform use)</li>
+<li><a href="/wiki/MACRO-11">MACRO-11</a> (for <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a> <a href="/wiki/PDP-11">PDP-11</a>)</li>
+<li><a href="/w/index.php?title=MACRO-20&amp;action=edit&amp;redlink=1" class="new" title="MACRO-20 (page does not exist)">MACRO-20</a> (for DEC <a href="/wiki/DECSYSTEM-20">DECSYSTEM-20</a>)</li>
+<li><a href="/w/index.php?title=MACRO-32&amp;action=edit&amp;redlink=1" class="new" title="MACRO-32 (page does not exist)">MACRO-32</a> (for DEC <a href="/wiki/VAX">VAX</a>)</li>
+<li><a href="/wiki/Microsoft_Macro_Assembler" title="Microsoft Macro Assembler">MASM</a> (<a href="/wiki/Microsoft">Microsoft</a> Macro Assembler)</li>
+<li>MI (Machine Interface, compile-time <a href="/wiki/Intermediate_language">intermediate language</a>)</li>
+<li>MIPS (for <a href="/wiki/MIPS_architecture">MIPS architecture</a>) Microprocessor without Interlocked Pipeline Stages</li>
+<li>Motorola 68k Assembly (for <a href="/wiki/Motorola_68000_family">Motorola 68000 family</a>) of CPUs</li>
+<li><a href="/wiki/Netwide_Assembler" title="Netwide Assembler">NASM</a> (Netwide Assembler)</li>
+<li>NEAT (National's Electronic Autocoder Technique), for <a href="/wiki/NCR_Corporation" title="NCR Corporation">NCR</a> computers, evolved into NEAT/3 (comment: NEAT/3 was more an RPG clone than an assembler type language)</li>
+<li><a href="/wiki/PDP-8" title="PDP-8">PAL-III</a> (for DEC <a href="/wiki/PDP-8">PDP-8</a>)</li>
+<li><a href="/wiki/Parrot_assembly_language" title="Parrot assembly language">PASM</a> (for <a href="/wiki/Parrot_virtual_machine">Parrot virtual machine</a>)</li>
+<li><a href="/wiki/RosAsm">RosAsm</a> (32-bit Assembler; The Bottom Up Assembler)</li>
+<li><a href="/w/index.php?title=SC123&amp;action=edit&amp;redlink=1" class="new" title="SC123 (page does not exist)">SC123</a> (for educational computer developed at CSU)</li>
+<li>Sphinx <a href="/wiki/C--">C--</a> (mixes Assembly commands with C-like structures)</li>
+<li><a href="/w/index.php?title=Sistema_Simvolicheskogo_Kodirovanija&amp;action=edit&amp;redlink=1" class="new" title="Sistema Simvolicheskogo Kodirovanija (page does not exist)">SSK</a> (<i>Sistema Simvolicheskogo Kodirovaniya</i>, or "System of symbolic coding") for <a href="/wiki/Minsk_family_of_computers">Minsk family of computers</a></li>
+<li><a href="/wiki/Turbo_Assembler" title="Turbo Assembler">TASM</a> (Turbo Assembler, <a href="/wiki/Borland">Borland</a>)</li>
+<li><a href="/wiki/Yasm">Yasm</a> (Rewrite of <a href="/wiki/Netwide_Assembler" title="Netwide Assembler">NASM</a>)</li>
+<li><a href="/wiki/Z80A" class="mw-redirect" title="Z80A">Z80A</a> Mnemonic language used to represent instructions for the Z80A microprocessor</li>
+</ul>
+<h2><span class="mw-headline" id="Authoring_languages">Authoring languages</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Authoring_language">Authoring language</a></div>
+<ul>
+<li><a href="/wiki/Bigwig_(programming_language)" title="Bigwig (programming language)">Bigwig</a> (web design language)</li>
+<li><a href="/w/index.php?title=Coursewriter_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Coursewriter (programming language) (page does not exist)">Coursewriter</a></li>
+<li><a href="/wiki/PILOT">PILOT</a></li>
+<li><a href="/wiki/TUTOR_(programming_language)" title="TUTOR (programming language)">TUTOR</a></li>
+</ul>
+<h2><span class="mw-headline" id="Command_line_interface_languages">Command line interface languages</span></h2>
+<p><a href="/wiki/Command-line_interface">Command-line interface</a> (CLI) languages are also called batch languages, or job control languages. Examples:</p>
+<ul>
+<li><a href="/wiki/4DOS">4DOS</a> (extended command-line shell for <a href="/wiki/IBM_Personal_Computer" title="IBM Personal Computer">IBM PCs</a>)</li>
+<li><a href="/wiki/Batch_file" title="Batch file">.bat</a> (Windows batch file language as understood by <a href="/wiki/COMMAND.COM">COMMAND.COM</a> and <a href="/wiki/Command_Prompt">Command Prompt</a>)</li>
+<li><a href="/wiki/Windows_PowerShell">Windows PowerShell</a> (<a href="/wiki/Microsoft">Microsoft</a> <a href="/wiki/.NET_Framework" title=".NET Framework">.NET</a>-based CLI)</li>
+<li><a href="/wiki/CHAIN_(programming_language)" title="CHAIN (programming language)">CHAIN</a> (<a href="/wiki/Datapoint">Datapoint</a>)</li>
+<li><a href="/wiki/CLIST">CLIST</a> (<a href="/wiki/MVS">MVS</a> Command List)</li>
+<li><a href="/wiki/DIGITAL_Command_Language" title="DIGITAL Command Language">DCL</a> DIGITAL Command Language - standard CLI language for <a href="/wiki/OpenVMS" title="OpenVMS">VMS</a> (<a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a>, <a href="/wiki/Compaq">Compaq</a>, <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">HP</a>)</li>
+<li><a href="/wiki/Batch_file" title="Batch file">DOS batch language</a> (standard CLI/batch language for the <a href="/wiki/IBM_Personal_Computer" title="IBM Personal Computer">IBM PC</a> running <a href="/wiki/DR-DOS">DR-DOS</a>, <a href="/wiki/MS-DOS">MS-DOS</a>, or <a href="/wiki/IBM_PC_DOS" title="IBM PC DOS">PC-DOS</a> before <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>)
+<ul>
+<li>EA_QB_Command</li>
+</ul>
+</li>
+<li><a href="/wiki/CMS_EXEC">CMS EXEC</a></li>
+<li><a href="/wiki/EXEC_2">EXEC 2</a></li>
+<li><a href="/wiki/Job_Control_Language" title="Job Control Language">JCL</a> (<a href="/wiki/Punched_card" title="Punched card">punch card</a>-oriented batch control language for <a href="/wiki/IBM_System/360">IBM System/360</a> family mainframes)</li>
+<li><a href="/wiki/Bourne_shell" title="Bourne shell">sh</a> (the standard <a href="/wiki/Unix">UNIX</a> shell, written by <a href="/wiki/Stephen_R._Bourne">Stephen R. Bourne</a>)</li>
+<li><a href="/wiki/C_shell" title="C shell">csh</a> (C-like shell from <a href="/wiki/Bill_Joy">Bill Joy</a> at UC Berkeley)</li>
+<li><a href="/wiki/Ch_interpreter" title="Ch interpreter">Ch</a> (C-compatible shell)</li>
+<li><a href="/wiki/Tcsh">tcsh</a> (a <a href="/wiki/Unix">UNIX</a> shell)</li>
+<li><a href="/wiki/Bash_(Unix_shell)" title="Bash (Unix shell)">bash</a> (the Bourne-Again shell from <a href="/wiki/GNU">GNU</a>/<a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">FSF</a>)</li>
+<li><a href="/wiki/Korn_shell" title="Korn shell">ksh</a> (a standard <a href="/wiki/Unix">UNIX</a> shell, written by <a href="/wiki/David_Korn_(computer_scientist)" title="David Korn (computer scientist)">David Korn</a>)</li>
+<li><a href="/wiki/Z_shell" title="Z shell">zsh</a> (a <a href="/wiki/Unix">UNIX</a> shell)</li>
+<li><a href="/wiki/Rc">Rc</a> (command-line shell for <a href="/wiki/Plan_9_from_Bell_Labs" title="Plan 9 from Bell Labs">Plan 9</a>)</li>
+<li><a href="/wiki/Es_shell">Es shell</a> (shell based on Rc)</li>
+<li><a href="/wiki/REXX">REXX</a></li>
+<li>Shadow Command Line Interface</li>
+<li>SpiritShadow Command Line Interface (2009)</li>
+<li>Tandem Advanced Command Language (<a href="/wiki/TACL">TACL</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Compiled_languages">Compiled languages</span></h2>
+<p>These are languages typically processed by <a href="/wiki/Compiler" title="Compiler">compilers</a>, though theoretically any language can be compiled or interpreted. See also <a href="/wiki/Compiled_language">compiled language</a>.</p>
+<ul>
+<li><a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada</a> (multi-purpose language)</li>
+<li><a href="/wiki/ALGOL">ALGOL</a> (extremely influential language design. The second high level language compiler.)
+<ul>
+<li><a href="/wiki/SMALL" title="SMALL">SMALL Machine Algol Like Language</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ateji_PX">Ateji PX</a>, an extension of the Java language for parallelism</li>
+<li><a href="/wiki/BASIC">BASIC</a> (some dialects, including the first version of Dartmouth BASIC)</li>
+<li><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> (one of the most widely-used procedural programming languages)</li>
+<li><a href="/wiki/C%2B%2B">C++</a></li>
+<li><a href="/wiki/Clipper_(programming_language)" title="Clipper (programming language)">CLIPPER 5.3</a> (Programming Language for dos base software)</li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a> (compiled into <a href="/wiki/Intermediate_language">Intermediate Language</a> which is used to generate a native image at runtime)</li>
+<li><a href="/wiki/LEO_(computer)" title="LEO (computer)">CLEO</a> (Clear Language for Expressing Orders) used the compiler for the British <a href="/wiki/LEO_(computer)" title="LEO (computer)">Leo computers</a></li>
+<li><a href="/w/index.php?title=Lush_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Lush (programming language) (page does not exist)">CLush</a> (<a href="/w/index.php?title=Lush_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Lush (programming language) (page does not exist)">Lush</a>)</li>
+<li><a href="/wiki/COBOL">COBOL</a></li>
+<li><a href="/wiki/Cobra_(programming_language_from_Cobra_Language_LLC)" title="Cobra (programming language from Cobra Language LLC)">Cobra</a></li>
+<li><a href="/wiki/Common_Lisp">Common Lisp</a></li>
+<li><a href="/w/index.php?title=Corn_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Corn (programming language) (page does not exist)">Corn</a></li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a> (Attempts a "C++ done right" philosophy)</li>
+<li><a href="/wiki/DASL_-_Distributed_Application_Specification_Language" title="DASL - Distributed Application Specification Language" class="mw-redirect">DASL</a> compiles into Java, JavaScript, JSP, Flex, etc., which are further compiled into a .war file</li>
+<li><a href="/wiki/Object_Pascal" title="Object Pascal">Delphi</a> (<a href="/wiki/Borland">Borland</a>'s Object Pascal development system)</li>
+<li><a href="/wiki/DIBOL">DIBOL</a> (Digital Interactive Business Oriented Language)</li>
+<li><a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a></li>
+<li><a href="http://borgdylan.web.officelive.com/dylandotnet.aspx" class="external text" rel="nofollow">dylan.NET</a></li>
+<li><a href="/w/index.php?title=EC_(Programming_language)&amp;action=edit&amp;redlink=1" class="new" title="EC (Programming language) (page does not exist)">eC (Ecere C)</a></li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a> (object-oriented language developed by <a href="/wiki/Bertrand_Meyer">Bertrand Meyer</a>)
+<ul>
+<li><a href="/wiki/Sather">Sather</a></li>
+<li><a href="/wiki/Ubercode">Ubercode</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ELisp" class="mw-redirect" title="ELisp">eLisp</a> Emacs Lisp</li>
+<li><a href="/wiki/Factor_(programming_language)" title="Factor (programming language)">Factor</a></li>
+<li><a href="/wiki/Fancy_(programming_language)" title="Fancy (programming language)">Fancy</a></li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a> (professional systems, like VFX and SwiftForth)</li>
+<li><a href="/wiki/Fortran">Fortran</a> (the first high level, compiled, language, from <a href="/wiki/IBM">IBM</a>, <a href="/wiki/John_Backus">John Backus</a>, et al.)</li>
+<li><a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a></li>
+<li><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></li>
+<li><a href="/wiki/Harbour_(software)" title="Harbour (software)">Harbour</a></li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> (usually compiled into <a href="/wiki/Java_Virtual_Machine" title="Java Virtual Machine">JVM</a> <a href="/wiki/Bytecode">bytecode</a> although true native-code compiled versions exist)</li>
+<li><a href="/wiki/JOVIAL">JOVIAL</a></li>
+<li><a href="/wiki/LabVIEW">LabVIEW</a></li>
+<li>Nemerle (compiled into Intermediate Language bytecode)</li>
+<li><a href="/wiki/Objective-C">Objective-C</a></li>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a> (most implementations)</li>
+<li><a href="/wiki/Plus_(programming_language)" title="Plus (programming language)">Plus</a></li>
+<li><a href="/w/index.php?title=Ppc%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Ppc++ (page does not exist)">ppC++</a></li>
+<li><a href="/wiki/IBM_RPG" title="IBM RPG">RPG</a> (Report Program Generator)</li>
+<li><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a> (some implementations, e.g. Gambit)</li>
+<li><a href="/wiki/Smalltalk">Smalltalk</a> generally compiled to platform independent <a href="/wiki/Bytecode">bytecode</a> that runs on a Virtual Machine.</li>
+<li><a href="/wiki/ML_(programming_language)" title="ML (programming language)">ML</a>
+<ul>
+<li><a href="/wiki/Standard_ML">Standard ML</a>
+<ul>
+<li><a href="/wiki/Alice_(programming_language)" title="Alice (programming language)">Alice</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Objective_Caml" title="Objective Caml">OCaml</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Turing_(programming_language)" title="Turing (programming language)">Turing</a></li>
+<li><a href="/w/index.php?title=Urq&amp;action=edit&amp;redlink=1" class="new" title="Urq (page does not exist)">Urq</a></li>
+<li><a href="/wiki/Visual_Basic">Visual Basic</a> (earlier versions compiled directly to a native runtime. Recent .NET versions are compiled into Intermediate Language which is used to generate a native image at runtime)</li>
+<li><a href="/wiki/Visual_FoxPro">Visual FoxPro</a></li>
+<li><a href="/wiki/Visual_Prolog">Visual Prolog</a></li>
+<li><a href="/wiki/WinDev">WinDev</a></li>
+<li><a href="/wiki/Microsoft_Dynamics_AX" title="Microsoft Dynamics AX">X++</a></li>
+<li><a href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a></li>
+<li><a href="/wiki/Z%2B%2B">Z++</a></li>
+</ul>
+<h2><span class="mw-headline" id="Concurrent_languages">Concurrent languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Concurrent_programming_languages">Category:Concurrent programming languages</a></div>
+<p><a href="/wiki/Message_passing">Message passing</a> languages provide language constructs for <a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">concurrency</a>. The predominant paradigm for concurrency in mainstream languages such as <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> is <a href="/wiki/Shared_memory">shared memory</a> concurrency based on <a href="/wiki/Monitor_(synchronization)" title="Monitor (synchronization)">monitors</a>. Concurrent languages that make use of message passing have generally been inspired by <a href="/wiki/Communicating_sequential_processes" title="Communicating sequential processes">CSP</a> or the <a href="/wiki/Pi-calculus" title="Pi-calculus" class="mw-redirect">π-calculus</a>, but have had little commercial success, except for Ada and Erlang. Ada is a multipurpose language and concurrent programming is only one option available.</p>
+<ul>
+<li><a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada</a> (multi-purpose language)</li>
+<li><a href="/w/index.php?title=Afnix_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Afnix (programming language) (page does not exist)">Afnix</a> – concurrent access to data is protected automatically (previously called <i>Aleph</i>, but unrelated to <i>Alef</i>)</li>
+<li><a href="/wiki/Alef_(programming_language)" title="Alef (programming language)">Alef</a> – concurrent language with threads and message passing, used for systems programming in early versions of <a href="/wiki/Plan_9_from_Bell_Labs">Plan 9 from Bell Labs</a></li>
+<li><a href="/wiki/Ateji_PX">Ateji PX</a> an extension of the Java language for parallelism</li>
+<li><a href="/wiki/ChucK">ChucK</a> – domain specific programming language for audio, precise control over concurrency and timing</li>
+<li><a href="/wiki/Cilk">Cilk</a> – a concurrent <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></li>
+<!--
+<li><a href="/wiki/C%CF%89">Cω</a> – C Omega, a research language extending C#, uses asynchronous communication</li>
+-->
+<li><a href="/wiki/Clojure">Clojure</a> – a dialect of <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a> for the <a href="/wiki/Java_Virtual_Machine">Java Virtual Machine</a></li>
+<li><a href="http://concurrentlua.luaforge.net/" class="external text" rel="nofollow">ConcurrentLua</a> – a <a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a> extension</li>
+<li><a href="/wiki/Concurrent_Pascal">Concurrent Pascal</a> (by Brinch-Hansen)</li>
+<li><a href="/w/index.php?title=Corn_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Corn (programming language) (page does not exist)">Corn</a></li>
+<li><a href="/wiki/Curry_(programming_language)" title="Curry (programming language)">Curry</a></li>
+<li><a href="/wiki/E_(programming_language)" title="E (programming language)">E</a> – uses promises, ensures deadlocks cannot occur</li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a> (through the <a href="/wiki/SCOOP">SCOOP</a> mechanism, Simple Concurrent Object-Oriented Computation)</li>
+<li><a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a> – uses asynchronous message passing with nothing shared</li>
+<li><a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a></li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>
+<ul>
+<li><a href="/wiki/Join_Java">Join Java</a> – concurrent language based on Java</li>
+<li><a href="/wiki/X10_(programming_language)" title="X10 (programming language)">X10</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Join-calculus">Join-calculus</a></li>
+<li><a href="/wiki/Joule_(programming_language)" title="Joule (programming language)">Joule</a> – dataflow language, communicates by message passing</li>
+<li><a href="/wiki/Limbo_(programming_language)" title="Limbo (programming language)">Limbo</a> – relative of <a href="/wiki/Alef_(programming_language)" title="Alef (programming language)">Alef</a>, used for systems programming in <a href="/wiki/Inferno_(operating_system)">Inferno (operating system)</a></li>
+<li><a href="/wiki/MultiLisp">MultiLisp</a> – <a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a> variant extended to support parallelism</li>
+<li><a href="/wiki/Occam_(programming_language)" title="Occam (programming language)">occam</a> – influenced heavily by <a href="/wiki/Communicating_sequential_processes">Communicating Sequential Processes</a> (CSP).
+<ul>
+	<!--
+<li><a href="/wiki/Occam-%CF%80">occam-π</a> – a modern variant of <a href="/wiki/Occam_(programming_language)" title="Occam (programming language)">occam</a>, which incorporates ideas from Milner's <a href="/wiki/Pi-calculus" title="Pi-calculus" class="mw-redirect">π-calculus</a></li>
+-->
+</ul>
+</li>
+<li><a href="/wiki/Oz_(programming_language)" title="Oz (programming language)">Oz</a> – multiparadigm language, supports shared-state and message-passing concurrency, and futures
+<ul>
+<li><a href="/wiki/Mozart_Programming_System">Mozart Programming System</a> – <a href="/wiki/Cross-platform" title="Cross-platform">multiplatform</a> Oz</li>
+</ul>
+</li>
+<li><a href="/wiki/Pict_(programming_language)" title="Pict (programming language)">Pict</a> – essentially an executable implementation of Milner's <a href="/wiki/Pi-calculus" title="Pi-calculus" class="mw-redirect">π-calculus</a></li>
+<li><a href="/wiki/SALSA_(programming_language)" title="SALSA (programming language)">SALSA</a> – actor language with token-passing, join, and first-class continuations for distributed computing over the Internet</li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a> – implements Erlang-style <a href="/wiki/Actor_model" title="Actor model">actors</a> on the JVM</li>
+<li><a href="/wiki/SR_(programming_language)" title="SR (programming language)">SR</a> – research language</li>
+</ul>
+<h2><span class="mw-headline" id="Curly-bracket_languages">Curly-bracket languages</span></h2>
+<p>The <b>curly bracket programming languages</b> have a syntax that defines statement blocks using the <a href="/wiki/Braces_(punctuation)" title="Braces (punctuation)" class="mw-redirect">curly bracket or brace characters <code>{</code> and <code>}</code></a>. A lot of these languages descend from or are strongly influenced by C. Examples of curly-bracket languages include:</p>
+<ul>
+<li><a href="/wiki/Actor-Based_Concurrent_Language" title="Actor-Based Concurrent Language">ABCL/c+</a></li>
+<li><a href="/wiki/Alef_(programming_language)" title="Alef (programming language)">Alef</a>
+<ul>
+<li><a href="/wiki/Limbo_(programming_language)" title="Limbo (programming language)">Limbo</a></li>
+</ul>
+</li>
+<li><a href="/wiki/AutoHotkey">AutoHotkey</a></li>
+<li><a href="/wiki/AWK">AWK</a></li>
+<li><a href="/wiki/BCPL">BCPL</a></li>
+<li><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> - developed circa 1970 at <a href="/wiki/Bell_Labs">Bell Labs</a></li>
+<li><a href="/wiki/C_shell" title="C shell">csh</a> ("C Shell")</li>
+<li><a href="/wiki/C%2B%2B">C++</a></li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a></li>
+<li><a href="/wiki/Ch_interpreter" title="Ch interpreter">Ch</a> - embeddable C/C++ interpreter</li>
+<li><a href="/wiki/ChucK">ChucK</a> - audio programming language</li>
+<li><a href="/wiki/Cilk">Cilk</a> - concurrent C for multithreaded parallel programming</li>
+<li><a href="/w/index.php?title=Coyote_programming_language&amp;action=edit&amp;redlink=1" class="new" title="Coyote programming language (page does not exist)">Coyote</a> - safer C variant to lower the likelihood of some common errors, e.g., buffer overflows</li>
+<li><a href="/wiki/Cyclone_(programming_language)" title="Cyclone (programming language)">Cyclone</a> - safer C variant</li>
+<li><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a></li>
+<li><a href="/wiki/DASL_-_Distributed_Application_Specification_Language" title="DASL - Distributed Application Specification Language" class="mw-redirect">DASL</a> - based on Java</li>
+<li><a href="/w/index.php?title=Dino_programming_language&amp;action=edit&amp;redlink=1" class="new" title="Dino programming language (page does not exist)">DINO</a></li>
+<li><a href="/w/index.php?title=EC_(Programming_language)&amp;action=edit&amp;redlink=1" class="new" title="EC (Programming language) (page does not exist)">eC (Ecere C)</a></li>
+<li><a href="/wiki/E_(programming_language)" title="E (programming language)">E</a></li>
+<li><a href="/wiki/ECMAScript">ECMAScript</a>
+<ul>
+<li><a href="/wiki/ActionScript">ActionScript</a></li>
+<li><a href="/w/index.php?title=DMDScript&amp;action=edit&amp;redlink=1" class="new" title="DMDScript (page does not exist)">DMDScript</a></li>
+<li><a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a></li>
+<li><a href="/wiki/JavaScript">JavaScript</a></li>
+<li><a href="/wiki/JScript">JScript</a></li>
+<li><a href="/w/index.php?title=MDMscript&amp;action=edit&amp;redlink=1" class="new" title="MDMscript (page does not exist)">MDMscript</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Frink">Frink</a></li>
+<li><a href="/wiki/ICI_(programming_language)" title="ICI (programming language)">ICI</a></li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>
+<ul>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+<li><a href="/wiki/Join_Java">Join Java</a></li>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a></li>
+<li><a href="/wiki/X10_(programming_language)" title="X10 (programming language)">X10</a></li>
+</ul>
+</li>
+<li><a href="/wiki/LPC_(programming_language)" title="LPC (programming language)">LPC</a></li>
+<li><a href="/w/index.php?title=Mythryl&amp;action=edit&amp;redlink=1" class="new" title="Mythryl (page does not exist)">Mythryl</a></li>
+<li><a href="/wiki/Nemerle">Nemerle</a> - combines C# and ML features, provides syntax extension capabilities</li>
+<li><a href="/wiki/PCASTL">PCASTL</a></li>
+<li><a href="/wiki/Perl">Perl</a></li>
+<li><a href="/wiki/PHP">PHP</a></li>
+<li><a href="/wiki/Pico_(programming_language)" title="Pico (programming language)">Pico</a></li>
+<li><a href="/wiki/Pike_(programming_language)" title="Pike (programming language)">Pike</a></li>
+<li><a href="/w/index.php?title=Poses%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Poses++ (page does not exist)">Poses++</a> (language of the simulation system with the same name)</li>
+<li><a href="/w/index.php?title=Ppc%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Ppc++ (page does not exist)">ppC++</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/S-Lang_(programming_language)" title="S-Lang (programming language)">S-Lang</a></li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></li>
+<li><a href="/wiki/Sed">sed</a></li>
+<li><a href="/wiki/Suneido_programming_language" title="Suneido programming language">Suneido</a></li>
+<li><a href="/wiki/SuperCollider">SuperCollider</a></li>
+<li><a href="/w/index.php?title=TorqueScript_programming_language&amp;action=edit&amp;redlink=1" class="new" title="TorqueScript programming language (page does not exist)">TorqueScript</a></li>
+<li><a href="/wiki/UnrealScript">UnrealScript</a></li>
+<li><a href="/wiki/Windows_PowerShell">Windows PowerShell</a> (<a href="/wiki/Microsoft">Microsoft</a> <a href="/wiki/.NET_Framework" title=".NET Framework">.NET</a>-based CLI)</li>
+<li><a href="/wiki/Yorick_(programming_language)" title="Yorick (programming language)">Yorick</a></li>
+</ul>
+<h2><span class="mw-headline" id="Dataflow_languages">Dataflow languages</span></h2>
+<p><a href="/wiki/Dataflow_programming">Dataflow programming</a> languages rely on a (usually visual) representation of the flow of data to specify the program. Frequently used for reacting to discrete events or for processing streams of data. Examples of dataflow languages include:</p>
+<ul>
+<li><a href="/wiki/Hartmann_pipeline" title="Hartmann pipeline">Hartmann pipelines</a></li>
+<li>G (used in <a href="/wiki/LabVIEW">LabVIEW</a>)</li>
+<li><a href="/wiki/Lucid_(programming_language)" title="Lucid (programming language)">Lucid</a></li>
+<li><a href="/wiki/Max_(software)" title="Max (software)">Max</a></li>
+<li><a href="/wiki/Prograph">Prograph</a></li>
+<li><a href="/wiki/Pure_Data">Pure Data</a></li>
+<li><a href="/wiki/Agilent_VEE" title="Agilent VEE">VEE</a></li>
+<li><a href="/wiki/VisSim">VisSim</a></li>
+<li><a href="/wiki/WebMethods_Flow">WebMethods Flow</a></li>
+<li><a href="/wiki/SeeBeyond_Technology_Corporation" title="SeeBeyond Technology Corporation">Monk</a></li>
+<li><a href="/wiki/Oz_(programming_language)" title="Oz (programming language)">Oz</a></li>
+<li><a href="/wiki/VHDL">VHDL</a></li>
+</ul>
+<h2><span class="mw-headline" id="Data-oriented_languages">Data-oriented languages</span></h2>
+<p><a href="/w/index.php?title=Data-oriented_language&amp;action=edit&amp;redlink=1" class="new" title="Data-oriented language (page does not exist)">Data-oriented languages</a> provide powerful ways of searching and manipulating the relations that have been described as entity relationship tables which map one set of things into other sets. Examples of data-oriented languages include:</p>
+<ul>
+<li><a href="/wiki/Clarion_(programming_language)" title="Clarion (programming language)">Clarion</a></li>
+<li><a href="/wiki/Clipper_(programming_language)" title="Clipper (programming language)">Clipper</a></li>
+<li><a href="/wiki/DBase">dBase</a> a relational database access language</li>
+<li><a href="/wiki/MUMPS">MUMPS</a> (an ANSI standard general purpose language with specializations for database work.)</li>
+<li><a href="/wiki/SPARQL">SPARQL</a></li>
+<li><a href="/wiki/SQL">SQL</a></li>
+<li><a href="/wiki/D_(data_language_specification)" title="D (data language specification)">Tutorial D</a>, see also <a href="/wiki/The_Third_Manifesto">The Third Manifesto</a></li>
+<li><a href="/wiki/Visual_FoxPro">Visual FoxPro</a>, a native RDBMS engine, object oriented, RAD</li>
+<li><a href="/wiki/WebQL">WebQL</a></li>
+</ul>
+<h2><span class="mw-headline" id="Data-structured_languages">Data-structured languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Data-structured_programming_languages">Category:Data-structured programming languages</a></div>
+<p><a href="/wiki/Data-structured_language" title="Data-structured language">Data-structured languages</a> are those where logic is structured in ways similar to their data. Such languages are generally well suited to reflection and introspection. There are three main types:</p>
+<ul>
+<li><a href="#Array_languages">Array-based</a></li>
+<li><a href="#List-based_languages_.E2.80.93_LISPs">List-based</a></li>
+<li><a href="#Stack-based_languages">Stack-based</a></li>
+</ul>
+<p><a href="/wiki/Assembly_language" title="Assembly language">Assembly languages</a> which statically link data inline with instructions can also be considered data-structured, in the most primitive way.</p>
+<h2><span class="mw-headline" id="Declarative_languages">Declarative languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Declarative_programming_languages">Category:Declarative programming languages</a></div>
+<p><a href="/wiki/Declarative_programming" title="Declarative programming">Declarative languages</a> describe a problem rather than defining a solution. <a href="/wiki/Declarative_programming">Declarative programming</a> stands in contrast to <a href="/wiki/Imperative_programming">imperative programming</a> via imperative programming languages, where serial orders (imperatives) are given to a computer. In addition to the examples given just below, all (pure) <a href="#Functional_languages">functional</a> and <a href="#Logic-based_languages">logic-based</a> programming languages are also declarative. In fact, "functional" and "logical" constitute the usual subcategories of the declarative category.</p>
+<ul>
+<li><a href="/wiki/Analytica">Analytica</a></li>
+<li><a href="/wiki/Apache_Ant" title="Apache Ant">Ant</a></li>
+<li><a href="/wiki/DASL_-_Distributed_Application_Specification_Language" title="DASL - Distributed Application Specification Language" class="mw-redirect">DASL</a> <small>(partially <a href="/wiki/Declarative_programming" title="Declarative programming">Declarative languages</a>, partially <a href="/wiki/Imperative_programming">imperative programming</a>)</small></li>
+<li><a href="/wiki/Lustre_(programming_language)" title="Lustre (programming language)">Lustre</a></li>
+<li><a href="/wiki/MetaPost">MetaPost</a></li>
+<li><a href="/wiki/Modelica">Modelica</a></li>
+<li><a href="/wiki/Prolog">Prolog</a></li>
+<li><a href="/wiki/SQL">SQL</a></li>
+<li><a href="/wiki/XBase">xBase</a></li>
+<li><a href="/wiki/XSL_Transformations" class="mw-redirect" title="XSL Transformations">XSL Transformations</a></li>
+<li><a href="/w/index.php?title=Poses%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Poses++ (page does not exist)">Poses++</a> <small>(language of the simulation system with the same name)</small></li>
+</ul>
+<h2><span class="mw-headline" id="Esoteric_languages">Esoteric languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Esoteric_programming_languages">Category:Esoteric programming languages</a></div>
+<p>An <a href="/wiki/Esoteric_programming_language">esoteric programming language</a> is a programming language designed as a test of the boundaries of computer programming language design, as a proof of concept, or as a joke.</p>
+<ul>
+<li><a href="/wiki/Befunge">Befunge</a></li>
+<li><a href="/wiki/Brainfuck">Brainfuck</a></li>
+<li><a href="/wiki/Chef_(programming_language)" title="Chef (programming language)">Chef</a></li>
+<li><a href="/wiki/FALSE">FALSE</a></li>
+<li><a href="/wiki/INTERCAL">INTERCAL</a></li>
+<li><a href="/wiki/LOLCODE">LOLCODE</a></li>
+<li><a href="/wiki/Malbolge">Malbolge</a></li>
+<li><a href="/w/index.php?title=Merd&amp;action=edit&amp;redlink=1" class="new" title="Merd (page does not exist)">merd</a></li>
+<li><a href="/wiki/Piet_(programming_language)" title="Piet (programming language)">Piet</a></li>
+<li><a href="/w/index.php?title=Qwertycode&amp;action=edit&amp;redlink=1" class="new" title="Qwertycode (page does not exist)">Qwertycode</a></li>
+<li><a href="/wiki/Shakespeare_(programming_language)" title="Shakespeare (programming language)">Shakespeare</a></li>
+<li>SNUSP</li>
+<li><a href="/w/index.php?title=Var%27aq&amp;action=edit&amp;redlink=1" class="new" title="Var'aq (page does not exist)">Var'aq</a> (<a href="/wiki/Klingon">Klingon</a> programming language)</li>
+<li><a href="/wiki/Whitespace_(programming_language)" title="Whitespace (programming language)">Whitespace</a></li>
+</ul>
+<h2><span class="mw-headline" id="Extension_languages">Extension languages</span></h2>
+<p><a href="/w/index.php?title=Extension_programming_language&amp;action=edit&amp;redlink=1" class="new" title="Extension programming language (page does not exist)">Extension programming languages</a> are languages intended to be embedded into another program and used to harness its features in extension scripts.</p>
+<ul>
+<li><a href="/wiki/Ateji_PX">Ateji PX</a> an extension of the Java language for parallelism</li>
+<li><a href="/wiki/AutoLISP">AutoLISP</a> (specific to <a href="/wiki/AutoCAD">AutoCAD</a>)</li>
+<li><a href="/wiki/Cakewalk_(sequencer)#Features" title="Cakewalk (sequencer)">CAL</a></li>
+<li><a href="/wiki/C/AL" title="C/AL">C/AL(C/SIDE)</a></li>
+<li><a href="/w/index.php?title=DeScribe_Macro_Language&amp;action=edit&amp;redlink=1" class="new" title="DeScribe Macro Language (page does not exist)">DeScribe Macro Language</a> (DML - specific to the <a href="/w/index.php?title=DeScribe_Word_Processor&amp;action=edit&amp;redlink=1" class="new" title="DeScribe Word Processor (page does not exist)">DeScribe Word Processor</a>)</li>
+<li><a href="/wiki/GNU_Guile" title="GNU Guile">Guile</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/wiki/OptimJ">OptimJ</a> an extension of the Java programming language with language support for writing optimization models and powerful abstractions for bulk data processing.</li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (Maya and other 3-D animation packages)</li>
+<li><a href="/wiki/REXX">REXX</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a> (Google SketchUp)</li>
+<li><a href="/wiki/S-Lang_(programming_language)" title="S-Lang (programming language)">S-Lang</a></li>
+<li><a href="/wiki/SQL">SQL</a></li>
+<li><a href="/wiki/Tcl">Tcl</a></li>
+<li><a href="/wiki/Vimscript">Vimscript</a></li>
+<li><a href="/wiki/Visual_Basic_for_Applications" title="Visual Basic for Applications">VBA</a></li>
+<li><a href="/wiki/Windows_PowerShell">Windows PowerShell</a></li>
+</ul>
+<h2><span class="mw-headline" id="Fourth-generation_languages">Fourth-generation languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:4GL">Category:4GL</a></div>
+<p><a href="/wiki/Fourth-generation_programming_language" title="Fourth-generation programming language">Fourth-generation programming languages</a> are high-level languages built around database systems. They are generally used in commercial environments.</p>
+<ul>
+<li><a href="/wiki/ABAP">ABAP</a></li>
+<li><a href="/w/index.php?title=ADMINS&amp;action=edit&amp;redlink=1" class="new" title="ADMINS (page does not exist)">ADMINS</a></li>
+<li><a href="/wiki/BuildProfessional">BuildProfessional</a></li>
+<li><a href="/wiki/CorVision">CorVision</a></li>
+<li><a href="/wiki/Computer_Sciences_Corporation" title="Computer Sciences Corporation">CSC</a>'s GraphTalk</li>
+<li><a href="http://borgdylan.web.officelive.com/dylandotnet.aspx" class="external text" rel="nofollow">dylan.NET</a></li>
+<li><a href="/wiki/Easytrieve">Easytrieve</a> report generator (now CA-Easytrieve Plus)</li>
+<li><a href="/wiki/FOCUS">FOCUS</a></li>
+<li><a href="/w/index.php?title=GEMBASE&amp;action=edit&amp;redlink=1" class="new" title="GEMBASE (page does not exist)">GEMBASE</a></li>
+<li><a href="/wiki/IBM_Informix-4GL">IBM Informix-4GL</a> / <a href="/wiki/Aubit-4GL">Aubit-4GL</a></li>
+<li><a href="/wiki/LINC_4GL">LINC 4GL</a></li>
+<li><a href="/wiki/MAPPER">MAPPER</a> (<a href="/wiki/Unisys" title="Unisys">Unisys/Sperry</a>) now part of BIS</li>
+<li><a href="/wiki/MARK_IV_(software)" title="MARK IV (software)">MARK-IV</a> (<a href="/wiki/Sterling_Software" title="Sterling Software">Sterling/Informatics</a>) now VISION:BUILDER of CA</li>
+<li><a href="/w/index.php?title=Oracle_Express_4GL&amp;action=edit&amp;redlink=1" class="new" title="Oracle Express 4GL (page does not exist)">Oracle Express 4GL</a></li>
+<li><a href="/wiki/Progress_4GL" class="mw-redirect" title="Progress 4GL">Progress 4GL</a></li>
+<li><a href="/wiki/Querix" title="Querix">Querix 4GL</a></li>
+<li><a href="/wiki/Revolution_(programming_language)" title="Revolution (programming language)" class="mw-redirect">Revolution</a> (not based on a database; still, the goal is to work at a higher level of abstraction than 3GLs)</li>
+<li><a href="/wiki/SAS_System" title="SAS System" class="mw-redirect">SAS</a></li>
+<li>Sculptor</li>
+<li><a href="/w/index.php?title=Today_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Today (programming language) (page does not exist)">Today</a></li>
+<li><a href="/wiki/Ubercode">Ubercode</a> (VHLL, or Very High Level Language)</li>
+<li><a href="/wiki/Uniface_(programming_language)" title="Uniface (programming language)">Uniface</a></li>
+<li><a href="/wiki/Visual_DataFlex">Visual DataFlex</a></li>
+<li><a href="/wiki/Visual_FoxPro">Visual FoxPro</a></li>
+<li><a href="/wiki/XBase">xBase</a></li>
+<li><a href="http://xmlmosaic.codeplex.com" class="external text" rel="nofollow">XMLmosaic</a></li>
+</ul>
+<h2><span class="mw-headline" id="Functional_languages">Functional languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Functional_languages">Category:Functional languages</a></div>
+<p><a href="/wiki/Functional_programming">Functional programming</a> languages define programs and subroutines as mathematical functions. Many so-called functional languages are "impure", containing imperative features. Not surprisingly, many of these languages are tied to mathematical calculation tools. Functional languages include:</p>
+<h3><span class="mw-headline" id="Pure">Pure</span></h3>
+<ul>
+<li><a href="/wiki/Charity_(programming_language)" title="Charity (programming language)">Charity</a></li>
+<li><a href="/wiki/Clean_(programming_language)" title="Clean (programming language)">Clean</a></li>
+<li><a href="/wiki/Curry_(programming_language)" title="Curry (programming language)">Curry</a></li>
+<li><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></li>
+<li><a href="/wiki/Miranda_(programming_language)" title="Miranda (programming language)">Miranda</a></li>
+</ul>
+<h3><span class="mw-headline" id="Impure">Impure</span></h3>
+<ul>
+<li><a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a></li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a></li>
+<li><a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a></li>
+<li><a href="/wiki/FPr_(programming_language)" title="FPr (programming language)">FPr</a>
+<ul>
+<li><a href="/wiki/CAL_(Joss_family)" title="CAL (Joss family)">CAL</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hop_(software)" title="Hop (software)">Hop</a></li>
+<li><a href="/wiki/J_(programming_language)" title="J (programming language)">J</a></li>
+<li><a href="/wiki/Joy_(programming_language)" title="Joy (programming language)">Joy</a></li>
+<li><a href="/wiki/Kite_(programming_language)" title="Kite (programming language)">Kite</a></li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>
+<ul>
+<li><a href="/wiki/Clojure">Clojure</a></li>
+<li><a href="/wiki/Common_Lisp">Common Lisp</a></li>
+<li><a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a></li>
+<li><a href="/wiki/ELisp" class="mw-redirect" title="ELisp">eLisp</a> Emacs Lisp</li>
+<li><a href="/wiki/Little_b_(programming_language)" title="Little b (programming language)">Little b</a></li>
+<li><a href="/wiki/Logo_(programming_language)" title="Logo (programming language)">Logo</a></li>
+<li><a href="/w/index.php?title=Racket_(_used_to_be_Scheme)_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Racket ( used to be Scheme) (programming language) (page does not exist)">Scheme</a></li>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Lush_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Lush (programming language) (page does not exist)">Lush</a></li>
+<li><a href="/wiki/Mathematica">Mathematica</a></li>
+<li><a href="/wiki/ML_(programming_language)" title="ML (programming language)">ML</a>
+<ul>
+<li><a href="/wiki/Standard_ML">Standard ML</a>
+<ul>
+<li><a href="/wiki/Alice_(programming_language)" title="Alice (programming language)">Alice</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Objective_Caml" title="Objective Caml">Ocaml</a></li>
+<li><a href="/w/index.php?title=Mythryl&amp;action=edit&amp;redlink=1" class="new" title="Mythryl (page does not exist)">Mythryl</a></li>
+</ul>
+</li>
+<li>Nemerle</li>
+<li><a href="/wiki/Opal_(programming_language)" title="Opal (programming language)">Opal</a></li>
+<li><a href="/wiki/OPS5">OPS5</a></li>
+<li><a href="/wiki/Poplog">Poplog</a></li>
+<li><a href="/wiki/Q_(equational_programming_language)">Q (equational programming language)</a></li>
+<li><a href="/wiki/Q_(programming_language_from_Kx_Systems)">Q (programming language from Kx Systems)</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/REFAL" class="mw-redirect" title="REFAL">REFAL</a></li>
+<li><a href="/w/index.php?title=Russell_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Russell (programming language) (page does not exist)">Russell</a></li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></li>
+<li><a href="/wiki/Spreadsheet" title="Spreadsheet">Spreadsheets</a></li>
+</ul>
+<h2><span class="mw-headline" id="Interactive_mode_languages">Interactive mode languages</span></h2>
+<p>Interactive mode languages act as a kind of shell: expressions or statements can be entered one at a time, and the result of their evaluation is seen immediately.</p>
+<ul>
+<li><a href="/wiki/BASIC">BASIC</a> (some dialects)</li>
+<li><a href="/wiki/Clojure">Clojure</a></li>
+<li><a href="/wiki/Common_Lisp">Common Lisp</a></li>
+<li><a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a></li>
+<li><a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a></li>
+<li><a href="/wiki/Fancy_(programming_language)" title="Fancy (programming language)">Fancy</a></li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a></li>
+<li><a href="/wiki/FPr_(programming_language)" title="FPr (programming language)">FPr</a></li>
+<li><a href="/wiki/Fril">Fril</a></li>
+<li><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a> (with the GHCi or Hugs interpreter)</li>
+<li><a href="/wiki/IDL_(programming_language)" title="IDL (programming language)">IDL</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/wiki/MUMPS">MUMPS</a> (an ANSI standard general purpose language)</li>
+<li><a href="/wiki/Maple_(software)" title="Maple (software)">Maple</a></li>
+<li><a href="/wiki/Mathematica">Mathematica</a></li>
+<li><a href="/wiki/MATLAB">MATLAB</a></li>
+<li><a href="/wiki/ML_(programming_language)" title="ML (programming language)">ML</a></li>
+<li><a href="/w/index.php?title=Mythryl&amp;action=edit&amp;redlink=1" class="new" title="Mythryl (page does not exist)">Mythryl</a></li>
+<li><a href="/wiki/Perl">Perl</a> (with the perl shell, <a href="/wiki/Perl_Shell" title="Perl Shell">psh</a>)</li>
+<li><a href="/wiki/PostScript">PostScript</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></li>
+<li><a href="/wiki/REXX">REXX</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a> (with <a href="/wiki/Interactive_Ruby_Shell" title="Interactive Ruby Shell">IRB</a>)</li>
+<li><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a></li>
+<li><a href="/wiki/Smalltalk">Smalltalk</a> (anywhere in a Smalltalk environment)</li>
+<li><a href="/wiki/S-Lang_(programming_language)" title="S-Lang (programming language)">S-Lang</a> (with the S-Lang shell, slsh)</li>
+<li><a href="/wiki/Tcl">Tcl</a> (with the Tcl shell, tclsh)</li>
+<li><a href="/wiki/Windows_PowerShell">Windows PowerShell</a> (<a href="/wiki/Microsoft">Microsoft</a> <a href="/wiki/.NET_Framework" title=".NET Framework">.NET</a>-based CLI)</li>
+</ul>
+<h2><span class="mw-headline" id="Interpreted_languages">Interpreted languages</span></h2>
+<p><a href="/wiki/Interpreted_language" title="Interpreted language">Interpreted languages</a> are programming languages which programs may be executed from source code form, by an interpreter. Theoretically, any language can be compiled or interpreted, so the term *interpreted language* generally refers to languages that are commonly interpreted rather than compiled.</p>
+<ul>
+<li><a href="/wiki/Apache_Ant" title="Apache Ant">Ant</a></li>
+<li><a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a></li>
+<li><a href="/wiki/AutoHotkey">AutoHotkey</a> scripting language</li>
+<li><a href="/wiki/AutoIt">AutoIt</a> scripting language</li>
+<li><a href="/wiki/BASIC">BASIC</a> (some dialects)</li>
+<li><a href="/w/index.php?title=DATABUS_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="DATABUS (programming language) (page does not exist)">DATABUS</a> (later versions added optional compiling)</li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a> (via "Melting Ice Technology" in <a href="/wiki/EiffelStudio">EiffelStudio</a>)</li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a> (interactive shell only; otherwise compiled to native or <a href="/wiki/Threaded_code">threaded code</a>)</li>
+<li><a href="/wiki/FPr_(programming_language)" title="FPr (programming language)">FPr</a> (<a href="/wiki/Virtual_machine">Virtual machine</a>: Text is compiled to linked lists; linked lists are interpreted)</li>
+<li><a href="/wiki/Frink">Frink</a></li>
+<li><a href="/wiki/Game_Maker_Language">Game Maker Language</a></li>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+<li><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a> (GHCi, Hugs, NHC, YHC etc.)</li>
+<li><a href="/wiki/J_(programming_language)" title="J (programming language)">J</a></li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a> (early versions, pre-1962, and some experimental ones; production Lisp systems are compilers, but many of them still provide an interpreter if needed)
+<ul>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a></li>
+</ul>
+</li>
+<li><a href="/wiki/LPC_(programming_language)" title="LPC (programming language)">LPC</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/w/index.php?title=Lush_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Lush (programming language) (page does not exist)">Lush</a></li>
+<li><a href="/wiki/MUMPS">MUMPS</a> (an ANSI standard general purpose language)</li>
+<li><a href="/wiki/Maple_(software)" title="Maple (software)">Maple</a></li>
+<li><a href="/wiki/Mathematica">Mathematica</a></li>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a> <small>(early implementations)</small></li>
+<li><a href="/wiki/PCASTL">PCASTL</a></li>
+<li><a href="/wiki/Perl">Perl</a></li>
+<li><a href="/wiki/PIKT">Pikt</a></li>
+<li><a href="/wiki/PostScript">PostScript</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/REXX">REXX</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></li>
+<li><a href="/wiki/S-Lang_(programming_language)" title="S-Lang (programming language)">S-Lang</a></li>
+<li><a href="/wiki/Parallax_Propeller" title="Parallax Propeller">Spin</a></li>
+<li><a href="/wiki/Tcl">Tcl</a></li>
+<li><a href="/w/index.php?title=TorqueScript&amp;action=edit&amp;redlink=1" class="new" title="TorqueScript (page does not exist)">TorqueScript</a></li>
+<li><a href="/wiki/ThinBasic">thinBasic</a> scripting language</li>
+<li><a href="/wiki/VBScript">VBScript</a></li>
+<li><a href="/wiki/Windows_PowerShell">Windows PowerShell</a> (<a href="/wiki/Microsoft">Microsoft</a> <a href="/wiki/.NET_Framework" title=".NET Framework">.NET</a>-based CLI)</li>
+<li><a href="http://xmlmosaic.codeplex.com" class="external text" rel="nofollow">XMLmosaic</a></li>
+<li>Some scripting languages (<a href="#Scripting_languages">below</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Iterative_languages">Iterative languages</span></h2>
+<p>Iterative languages are built around or offering <a href="/wiki/Generator_(computer_science)" title="Generator (computer science)" class="mw-redirect">generators</a>.</p>
+<ul>
+<li><a href="/wiki/Aldor">Aldor</a></li>
+<li><a href="/wiki/Alphard_(programming_language)" title="Alphard (programming language)">Alphard</a></li>
+<li><a href="/wiki/Generator_(computer_science)#C.23" title="Generator (computer science)" class="mw-redirect">C#</a></li>
+<li><a href="/wiki/CLU_(programming_language)" title="CLU (programming language)">CLU</a></li>
+<li><a href="/wiki/Cobra_(programming_language_from_Cobra_Language_LLC)" title="Cobra (programming language from Cobra Language LLC)">Cobra</a></li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a>, through "agents"</li>
+<li><a href="/wiki/Icon_(programming_language)" title="Icon (programming language)">Icon</a></li>
+<li><a href="/wiki/Information_Processing_Language" title="Information Processing Language">IPL-v</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/w/index.php?title=Lush_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Lush (programming language) (page does not exist)">Lush</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/Sather">Sather</a></li>
+<li><a href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a> ("iterator" construct)</li>
+</ul>
+<h2><span class="mw-headline" id="List-based_languages_.E2.80.93_LISPs">List-based languages – LISPs</span></h2>
+<p>List-based languages are a type of <a href="/wiki/Data-structured_language">data-structured language</a> that are based upon the <a href="/wiki/List_(computing)" title="List (computing)">list</a> data structure.</p>
+<ul>
+<li><a href="/wiki/FPr_(programming_language)" title="FPr (programming language)">FPr</a></li>
+<li><a href="/wiki/Joy_(programming_language)" title="Joy (programming language)">Joy</a></li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>
+<ul>
+<li><a href="/wiki/Common_Lisp">Common Lisp</a></li>
+<li><a href="/wiki/Paul_Graham_(computer_programmer)" title="Paul Graham (computer programmer)">Arc</a></li>
+<li><a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a></li>
+<li><a href="/wiki/ELisp" class="mw-redirect" title="ELisp">eLisp</a> Emacs Lisp</li>
+<li><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a></li>
+<li><a href="/wiki/Logo_(programming_language)" title="Logo (programming language)">Logo</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Lush_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Lush (programming language) (page does not exist)">Lush</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/Tcl">Tcl</a>
+<ul>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a></li>
+</ul>
+</li>
+<li><a href="/wiki/TRAC_(programming_language)" title="TRAC (programming language)">TRAC</a></li>
+</ul>
+<h2><span class="mw-headline" id="Little_languages">Little languages</span></h2>
+<p><a href="/wiki/Domain-specific_language" title="Domain-specific language">Little languages</a> serve a specialized problem domain.</p>
+<ul>
+<li><a href="/wiki/Apply">apply</a> is a domain-specific language for image processing on parallel and conventional architectures</li>
+<li><a href="/wiki/AWK">awk</a> can serve as a prototyping language for <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, because the syntax is similar</li>
+<li><a href="/wiki/Comet_(programming_language)" title="Comet (programming language)">Comet</a> is used to solve complex combinatorial <a href="/wiki/Program_optimization" title="Program optimization">optimization</a> problems in areas such as <a href="/wiki/Resource_allocation">resource allocation</a> and <a href="/wiki/Scheduling_(computing)" title="Scheduling (computing)">scheduling</a>.</li>
+<li><a href="/wiki/SQL">SQL</a> has only a few keywords, and not all the constructs needed for a full programming language. Many database management systems extend SQL with additional constructs as a <a href="/wiki/Stored_procedure">stored procedure</a> language.</li>
+</ul>
+<h2><span class="mw-headline" id="Logic-based_languages">Logic-based languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Logic_programming_languages">Category:Logic programming languages</a></div>
+<p><a href="/wiki/Logic_programming" title="Logic programming">Logic-based</a> languages specify a set of attributes that a solution must have, rather than a set of steps to obtain a solution. Examples:</p>
+<ul>
+<li><a href="/wiki/Algebraic_Logic_Functional_(programming_language)" title="Algebraic Logic Functional (programming language)" class="mw-redirect">ALF</a></li>
+<li><a href="/wiki/Alma-0">Alma-0</a></li>
+<li><a href="/wiki/CLACL_(programming_language)" title="CLACL (programming language)">CLACL (CLAC-Language)</a></li>
+<li><a href="/wiki/Curry_(programming_language)" title="Curry (programming language)">Curry</a></li>
+<li><a href="/wiki/Fril">Fril</a></li>
+<li><a href="/wiki/Janus_(programming_language)" title="Janus (programming language)">Janus</a></li>
+<!--
+<li><a href="/wiki/%CE%9BProlog" title="ΛProlog">λProlog</a> (a logic programming language featuring polymorphic typing, modular programming, and higher-order programming)</li>
+-->
+<li><a href="/wiki/Leda_(programming_language)" title="Leda (programming language)">Leda</a></li>
+<li><a href="/wiki/Oz_(programming_language)" title="Oz (programming language)">Oz</a>
+<ul>
+<li><a href="/wiki/Mozart_Programming_System">Mozart Programming System</a> a <a href="/wiki/Cross-platform" title="Cross-platform">multiplatform</a> Oz</li>
+</ul>
+</li>
+<li><a href="/wiki/Poplog">Poplog</a></li>
+<li><a href="/wiki/Prolog">Prolog</a> (formulates data and the program evaluation mechanism as a special form of mathematical logic called <a href="/wiki/Horn_clause" title="Horn clause">Horn logic</a> and a general proving mechanism called <a href="/wiki/Resolution_(logic)" title="Resolution (logic)">logical resolution</a>)
+<ul>
+<li><a href="/wiki/Mercury_(programming_language)" title="Mercury (programming language)">Mercury</a> (based on Prolog)</li>
+<li><a href="/wiki/Strawberry_Prolog">Strawberry Prolog</a> (standard Prolog with some extensions)</li>
+<li><a href="/wiki/Visual_Prolog">Visual Prolog</a> (object-oriented Prolog extension)</li>
+</ul>
+</li>
+<li><a href="/wiki/ROOP_(programming_language)" title="ROOP (programming language)">ROOP</a></li>
+</ul>
+<h2><span class="mw-headline" id="Machine_languages">Machine languages</span></h2>
+<p><a href="/wiki/Machine_code" title="Machine code">Machine languages</a> are directly executable by a computer's CPU. They are typically formulated as bit patterns, usually represented in <a href="/wiki/Octal">octal</a> or <a href="/wiki/Hexadecimal">hexadecimal</a>. Each group of npatterns (often 1 or more bytes) causes the circuits in the CPU to execute one of the fundamental operations of the hardware. The activation of specific electrical inputs (e.g., CPU package pins for microprocessors), and logical settings for CPU state values, control the processor's computation. Individual machine languages are processor specific and are not portable. They are (essentially) always defined by the CPU developer, not by 3rd parties. The symbolic version, the processor's <a href="/wiki/Assembly_language">assembly language</a>, is also defined by the developer, in most cases. Since processors come in families which are based on a shared architecture, the same basic assembly language style can often be used for more than one CPU. Each of the following CPUs served as the basis for a family of processors:</p>
+<ul>
+<li><a href="/wiki/ARM_architecture" title="ARM architecture">ARM</a></li>
+<li><a href="/wiki/IA-32" title="IA-32">Intel 80x86</a></li>
+<li><a href="/wiki/IBM_System/360">IBM System/360</a></li>
+<li><a href="/wiki/Intel_Corporation" title="Intel Corporation">Intel</a> <a href="/wiki/Intel_8008" title="Intel 8008">8008</a>/<a href="/wiki/Intel_8080" title="Intel 8080">8080</a>/<a href="/wiki/Intel_8085" title="Intel 8085">8085</a></li>
+<li>MIPS <a href="/wiki/R1000" title="R1000">R2000/R3000</a></li>
+<li>MOS Tech <a href="/wiki/MOS_Technology_65xx" title="MOS Technology 65xx">6502 and 6510</a> (Commodore 64 CPU)</li>
+<li><a href="/wiki/Motorola_6800">Motorola 6800</a></li>
+<li><a href="/wiki/Motorola_68000_family">Motorola 68000 family</a></li>
+<li>National <a href="/wiki/NS320xx" title="NS320xx">32032</a></li>
+<li><a href="/wiki/Power_Architecture">Power Architecture</a> - (<a href="/wiki/IBM_POWER" title="IBM POWER">POWER</a> and <a href="/wiki/PowerPC">PowerPC</a>)</li>
+<li><a href="/wiki/StrongARM">StrongARM</a></li>
+<li>Sun <a href="/wiki/SPARC">SPARC</a>, <a href="/wiki/UltraSPARC">UltraSPARC</a></li>
+</ul>
+<h2><span class="mw-headline" id="Macro_languages">Macro languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Macro_programming_languages">Category:Macro programming languages</a></div>
+<p><a href="/wiki/Macro_(computer_science)" title="Macro (computer science)">Macro</a> languages embed small pieces of executable code inside a piece of free-form text.</p>
+<ul>
+<li><a href="/wiki/C_preprocessor" title="C preprocessor">cpp</a> (the C preprocessor)</li>
+<li><a href="/wiki/M4_(computer_language)" title="M4 (computer language)">m4</a> (originally from AT&amp;T, bundled with UNIX)</li>
+<li><a href="/wiki/PHP">PHP</a></li>
+<li><a href="/wiki/SMX_(computer_language)" title="SMX (computer language)">SMX</a>, dedicated to web pages</li>
+</ul>
+<p><a href="/wiki/Scripting_language" title="Scripting language">Scripting languages</a> such as <a href="/wiki/Tcl">Tcl</a> and <a href="/wiki/ECMAScript">ECMAScript</a> (<a href="/wiki/ActionScript">ActionScript</a>, <a href="/w/index.php?title=DMDScript&amp;action=edit&amp;redlink=1" class="new" title="DMDScript (page does not exist)">DMDScript</a>, <a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a>, <a href="/wiki/JavaScript">JavaScript</a>, <a href="/wiki/JScript">JScript</a>) have been embedded into applications so that they behave like macro languages.</p>
+<h2><span class="mw-headline" id="Metaprogramming_languages">Metaprogramming languages</span></h2>
+<p><a href="/wiki/Metaprogramming">Metaprogramming</a> is writing of programs that write or manipulate other programs (or themselves) as their data or that do part of the work that is otherwise done at <a href="/wiki/Run_time_(computing)" title="Run time (computing)">run time</a> during <a href="/wiki/Compile_time">compile time</a>. In many cases, this allows programmers to get more done in the same amount of time as they would take to write all the code manually.</p>
+<ul>
+<li><a href="/wiki/C%2B%2B">C++</a></li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a></li>
+<li><a href="/wiki/Fancy_(programming_language)" title="Fancy (programming language)">Fancy</a></li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a></li>
+<li><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a></li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/wiki/Maude_system">Maude system</a></li>
+<li><a href="/wiki/Mathematica">Mathematica</a></li>
+<li><a href="/wiki/MetaL_(programming_language)" title="MetaL (programming language)">MetaL</a></li>
+<li><a href="/wiki/OCaml#MetaOCaml" title="OCaml" class="mw-redirect">MetaOCaml</a></li>
+<li>Nemerle</li>
+<li><a href="/wiki/Perl">Perl</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></li>
+<li><a href="/wiki/Smalltalk">Smalltalk</a></li>
+<li><a href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a> (<a href="/wiki/Concept_programming">concept programming</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Multiparadigm_languages">Multiparadigm languages</span></h2>
+<p><a href="/wiki/Multi-paradigm_programming_language" title="Multi-paradigm programming language" class="mw-redirect">Multiparadigm languages</a> support more than one <a href="/wiki/Programming_paradigm">programming paradigm</a>. They allow a <a href="/wiki/Computer_program" title="Computer program">program</a> to use more than one <a href="/wiki/Computer_program" title="Computer program">programming</a> style. The goal is to allow programmers to use the best tool for a job, admitting that no one paradigm solves all problems in the easiest or most efficient way.</p>
+<ul>
+<li><a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada</a> (<a href="/wiki/Parallel_computing" title="Parallel computing">concurrent</a>, <a href="/wiki/Distributed_computing" title="Distributed computing">distributed</a>, <a href="/wiki/Generic_programming" title="Generic programming">generic</a> (<a href="/wiki/Template_metaprogramming">template metaprogramming</a>), <a href="/wiki/Imperative_programming" title="Imperative programming">imperative</a>, <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a> (<a href="/wiki/Class_(computer_science)" title="Class (computer science)" class="mw-redirect">class-based</a>))</li>
+<li><a href="/wiki/Algebraic_Logic_Functional_(programming_language)" title="Algebraic Logic Functional (programming language)" class="mw-redirect">ALF</a> (<a href="/wiki/Functional_programming" title="Functional programming">functional</a>, <a href="/wiki/Logic_programming" title="Logic programming">logic</a>)</li>
+<li><a href="/wiki/Alma-0">Alma-0</a> (constraint, imperative, logic)</li>
+<li><a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a> (functional, imperative)</li>
+<li><a href="/wiki/BETA">BETA</a> (functional, imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/C%2B%2B">C++</a> (generic, imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a> (generic, imperative, object-oriented (class-based), functional, declarative)</li>
+<li><a href="/wiki/ChucK">ChucK</a> (imperative, object-oriented, time-based, concurrent, on-the-fly)</li>
+<li><a href="/wiki/Cobra_(programming_language_from_Cobra_Language_LLC)" title="Cobra (programming language from Cobra Language LLC)">Cobra</a> (generic, imperative, object-oriented (class-based), functional, contractual)</li>
+<li><a href="/wiki/Common_Lisp">Common Lisp</a> (functional, imperative, object-oriented (class-based), <a href="/wiki/Aspect-oriented_programming" title="Aspect-oriented programming">aspect-oriented</a> (user may add further paradigms, e.g., logic))</li>
+<li><a href="/w/index.php?title=Corn_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Corn (programming language) (page does not exist)">Corn</a> (concurrent, generic, imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a> (functional, imperative, object-oriented (class-based), metaprogramming)</li>
+<li><a href="/wiki/Curry_(programming_language)" title="Curry (programming language)">Curry</a> (concurrent, functional, logic)</li>
+<li><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a> (generic, imperative, functional, object-oriented (class-based), metaprogramming)</li>
+<li><a href="/wiki/Object_Pascal" title="Object Pascal">Delphi</a> (generic, imperative, object-oriented (class-based), metaprogramming)</li>
+<li><a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a> (functional, object-oriented (class-based))</li>
+<li><a href="/wiki/ECMAScript">ECMAScript</a> (functional, imperative, object-oriented (prototype-based))
+<ul>
+<li><a href="/wiki/ActionScript">ActionScript</a></li>
+<li><a href="/w/index.php?title=DMDScript&amp;action=edit&amp;redlink=1" class="new" title="DMDScript (page does not exist)">DMDScript</a></li>
+<li><a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a></li>
+<li><a href="/wiki/JavaScript">JavaScript</a></li>
+<li><a href="/wiki/JScript">JScript</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a> (imperative, object-oriented (class-based), generic)</li>
+<li><a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a> (functional, generic, object-oriented (class-based), language-oriented)</li>
+<li><a href="/wiki/Fantom_(programming_language)" title="Fantom (programming language)">Fantom</a> (functional, object-oriented (class-based))</li>
+<li><a href="/wiki/FPr_(programming_language)" title="FPr (programming language)">FPr</a> (function-level, object-oriented (class-based))</li>
+<li><a href="/wiki/Harbour_(software)" title="Harbour (software)">Harbour</a></li>
+<li><a href="/wiki/Hop_(software)" title="Hop (software)">Hop</a></li>
+<li><a href="/wiki/J_(programming_language)" title="J (programming language)">J</a> (functional, imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/LabVIEW">LabVIEW</a> (<a href="/wiki/Dataflow_programming" title="Dataflow programming">dataflow</a>, <a href="/wiki/Visual_programming_language" title="Visual programming language">visual</a>)</li>
+<li><a href="/wiki/Lasso_(programming_language)" title="Lasso (programming language)">Lasso</a> (macro, object-oriented (prototype-based), procedural, scripting)</li>
+<li><a href="/wiki/Lava_(programming_language)" title="Lava (programming language)">Lava</a> (object-oriented (class-based), visual)</li>
+<li><a href="/wiki/Leda_(programming_language)" title="Leda (programming language)">Leda</a> (functional, imperative, logic, object-oriented (class-based))</li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a> (functional, imperative, object-oriented (<a href="/wiki/Prototype-based_programming" title="Prototype-based programming">prototype-based</a>))</li>
+<li><a href="/wiki/Metaobject" title="Metaobject">Metaobject protocols</a> (object-oriented (class-based, prototype-based))</li>
+<li><a href="/w/index.php?title=Mythryl&amp;action=edit&amp;redlink=1" class="new" title="Mythryl (page does not exist)">Mythryl</a> (functional, imperative)</li>
+<li>Nemerle (functional, object-oriented (class-based), imperative, metaprogramming)</li>
+<li><a href="/wiki/Objective_Caml">Objective Caml</a> (functional, imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/Oz_(programming_language)" title="Oz (programming language)">Oz</a> (functional (evaluation: <a href="/wiki/Eager_evaluation" title="Eager evaluation">eager</a>, <a href="/wiki/Lazy_evaluation" title="Lazy evaluation">lazy</a>), logic, <a href="/wiki/Constraint_programming" title="Constraint programming">constraint</a>, imperative, object-oriented (class-based), concurrent, distributed)
+<ul>
+<li><a href="/wiki/Mozart_Programming_System">Mozart Programming System</a> (<a href="/wiki/Cross-platform" title="Cross-platform">multiplatform</a> Oz)</li>
+</ul>
+</li>
+<li><a href="/wiki/Object_Pascal">Object Pascal</a> (imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/Perl">Perl</a> (imperative, functional (can't be purely functional), object-oriented, class-oriented, aspect-oriented (through modules))</li>
+<li><a href="/wiki/PHP">PHP</a> (imperative, object-oriented)</li>
+<li><a href="/w/index.php?title=Pliant&amp;action=edit&amp;redlink=1" class="new" title="Pliant (page does not exist)">Pliant</a> (functional, imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/Poplog">Poplog</a> (functional, imperative, logic)</li>
+<li><a href="/w/index.php?title=Ppc%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Ppc++ (page does not exist)">ppC++</a> (imperative, object-oriented (class-based))</li>
+<li><a href="/wiki/Prograph">Prograph</a> (dataflow, object-oriented (class-based), visual)</li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (functional, object-oriented (class-based), imperative)</li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/REBOL">REBOL</a> (functional, imperative, object-oriented (prototype-based), metaprogramming (dialected))</li>
+<li><a href="/wiki/ROOP_(programming_language)" title="ROOP (programming language)">ROOP</a> (imperative, logic, object-oriented (class-based), rule-based)</li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a> (functional, object-oriented (class-based))</li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a> (functional, object-oriented)</li>
+<li><a href="/w/index.php?title=Seed7&amp;action=edit&amp;redlink=1" class="new" title="Seed7 (page does not exist)">Seed7</a> (imperative, object-oriented, generic)</li>
+<li><a href="/wiki/SISAL">SISAL</a> (concurrent, dataflow, functional)</li>
+<li><a href="/wiki/Spreadsheet" title="Spreadsheet">Spreadsheets</a> (functional, visual)</li>
+<li><a href="/wiki/Tcl">Tcl</a> (functional, imperative, object-oriented (class-based))
+<ul>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a> (functional, imperative, object-oriented (class-based))</li>
+</ul>
+</li>
+<li><a href="/wiki/Windows_PowerShell">Windows PowerShell</a> (functional, imperative, pipeline, object-oriented (class-based))</li>
+<li><a href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a> (<a href="/wiki/Concept_programming">concept programming</a> approach)</li>
+</ul>
+<h2><span class="mw-headline" id="Numerical_analysis">Numerical analysis</span></h2>
+<ul>
+<li><a href="/w/index.php?title=Algae_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Algae (programming language) (page does not exist)">Algae</a></li>
+<li><a href="/wiki/AMPL_(programming_language)" title="AMPL (programming language)" class="mw-redirect">AMPL</a></li>
+<li><a href="/wiki/General_Algebraic_Modeling_System" title="General Algebraic Modeling System">GAMS</a></li>
+<li><a href="/wiki/MATLAB">MATLAB</a></li>
+<li><a href="/wiki/Oberon_(programming_language)" title="Oberon (programming language)">Seneca</a> an <a href="/wiki/Oberon_(programming_language)" title="Oberon (programming language)">Oberon</a> variant</li>
+</ul>
+<h2><span class="mw-headline" id="Non-English-based_languages">Non-English-based languages</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Non-English-based_programming_languages">non-English-based programming languages</a></div>
+<ul>
+<li><a href="/wiki/ARLOGO">ARLOGO</a> - <a href="/wiki/Arabic_language" title="Arabic language">Arabic</a></li>
+<li><a href="/wiki/Chinese_BASIC">Chinese BASIC</a> - <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<!--
+<li><a href="/wiki/Fj%C3%B6lnir_(programming_language)" title="Fjölnir (programming language)">Fjölnir</a> - <a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a></li>
+-->
+<li><a href="/w/index.php?title=Hebrew_Programming_Language&amp;action=edit&amp;redlink=1" class="new" title="Hebrew Programming Language (page does not exist)">HPL</a> - <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></li>
+<li><a href="/wiki/Lexico_programming_language" title="Lexico programming language" class="mw-redirect">Lexico</a> - <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+<li><a href="/wiki/Rapira">Rapira</a> - <a href="/wiki/Russian_language" title="Russian language">Russian</a></li>
+<li><a href="/wiki/Glagol">Glagol</a> - <a href="/wiki/Russian_language" title="Russian language">Russian</a></li>
+<li><a href="/w/index.php?title=Portugol&amp;action=edit&amp;redlink=1" class="new" title="Portugol (page does not exist)">Portugol</a> - <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></li>
+</ul>
+<h2><span class="mw-headline" id="Object-oriented_class-based_languages">Object-oriented class-based languages</span></h2>
+<p>Class-based <a href="/wiki/Object-oriented_programming_language" title="Object-oriented programming language" class="mw-redirect">Object-oriented programming languages</a> support objects defined by their class. Class definitions include member data. <a href="/wiki/Message_passing">Message passing</a> is a key concept (if not the key concept) in Object-oriented languages.</p>
+<p>Polymorphic functions parameterized by the class of some of their arguments are typically called methods. In languages with <a href="/wiki/Dynamic_dispatch" title="Dynamic dispatch">single dispatch</a>, classes typically also include method definitions. In languages with <a href="/wiki/Multiple_dispatch">multiple dispatch</a>, methods are defined by <a href="/wiki/Generic_function" title="Generic function">generic functions</a>. There are exceptions where <a href="/wiki/Dynamic_dispatch" title="Dynamic dispatch">single dispatch</a> methods are <a href="/wiki/Generic_function" title="Generic function">generic functions</a> (e.g. <a href="/wiki/Bigloo">Bigloo</a>'s object system).</p>
+<h3><span class="mw-headline" id="Multiple_dispatch"><a href="/wiki/Multiple_dispatch">Multiple dispatch</a></span></h3>
+<ul>
+<li><a href="/wiki/Common_Lisp">Common Lisp</a></li>
+<li><a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a></li>
+<li><a href="/wiki/Goo_(programming_language)" title="Goo (programming language)">Goo</a></li>
+<li><a href="/wiki/Cecil_(programming_language)" title="Cecil (programming language)">Cecil</a></li>
+</ul>
+<h3><span class="mw-headline" id="Single_dispatch">Single dispatch</span></h3>
+<ul>
+<li><a href="/wiki/Actor_(programming_language)" title="Actor (programming language)">Actor</a></li>
+<li><a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada 95</a> and <a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada 2005</a> (multi-purpose language)</li>
+<li><a href="/wiki/BETA">BETA</a></li>
+<li><a href="/wiki/C%2B%2B">C++</a></li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a></li>
+<li><a href="/wiki/Oxygene_(programming_language)" title="Oxygene (programming language)">Oxygene (formerly known as Chrome)</a></li>
+<li><a href="/wiki/ChucK">ChucK</a></li>
+<li><a href="/wiki/Cobra_(programming_language_from_Cobra_Language_LLC)" title="Cobra (programming language from Cobra Language LLC)">Cobra</a></li>
+<li><a href="/wiki/ColdFusion">ColdFusion</a></li>
+<li><a href="/w/index.php?title=Corn_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Corn (programming language) (page does not exist)">Corn</a></li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a></li>
+<li><a href="/wiki/DASL_-_Distributed_Application_Specification_Language" title="DASL - Distributed Application Specification Language" class="mw-redirect">DASL</a></li>
+<li><a href="/wiki/Object_Pascal" title="Object Pascal">Delphi</a></li>
+<li><a href="http://borgdylan.web.officelive.com/dylandotnet.aspx" class="external text" rel="nofollow">dylan.NET</a></li>
+<li><a href="/wiki/E_(programming_language)" title="E (programming language)">E</a></li>
+<li><a href="/wiki/GNU_E">GNU E</a></li>
+<li><a href="/w/index.php?title=EC_(Programming_language)&amp;action=edit&amp;redlink=1" class="new" title="EC (Programming language) (page does not exist)">eC (Ecere C)</a></li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a>
+<ul>
+<li><a href="/wiki/Sather">Sather</a></li>
+<li><a href="/wiki/Ubercode">Ubercode</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fancy_(programming_language)" title="Fancy (programming language)">Fancy</a></li>
+<li><a href="/wiki/F-Script_(programming_language)" title="F-Script (programming language)">F-Script</a></li>
+<li><a href="/wiki/Fortran#Fortran_2003" title="Fortran">Fortran 2003</a></li>
+<li><a href="/wiki/Fortress_(programming_language)" title="Fortress (programming language)">Fortress</a></li>
+<li><a href="/wiki/FPr_(programming_language)" title="FPr (programming language)">FPr</a></li>
+<li><a href="/wiki/Gambas">Gambas</a></li>
+<li><a href="/wiki/Game_Maker_Language">Game Maker Language</a></li>
+<li><a href="/wiki/Harbour_(software)" title="Harbour (software)">Harbour</a></li>
+<li><a href="/wiki/J_(programming_language)" title="J (programming language)">J</a></li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>
+<ul>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+<li><a href="/wiki/Join_Java">Join Java</a></li>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a></li>
+<li><a href="/wiki/X10_(programming_language)" title="X10 (programming language)">X10</a></li>
+</ul>
+</li>
+<li><a href="/wiki/JavaScript">JavaScript</a></li>
+<li><a href="/wiki/Kite_(programming_language)" title="Kite (programming language)">Kite</a></li>
+<li><a href="/wiki/LabVIEW">LabVIEW</a></li>
+<li><a href="/wiki/Lava_(programming_language)" title="Lava (programming language)">Lava</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/wiki/Modula-2">Modula-2</a> (data abstraction, information hiding, strong typing, full modularity)
+<ul>
+<li><a href="/wiki/Modula-3">Modula-3</a> (added more object oriented features to Modula-2)</li>
+</ul>
+</li>
+<li>Moto</li>
+<li>Nemerle</li>
+<li><a href="/wiki/IBM_NetRexx" class="mw-redirect" title="IBM NetRexx">IBM NetRexx</a></li>
+<li><a href="/wiki/Oberon-2_(programming_language)" title="Oberon-2 (programming language)">Oberon-2</a> (full object orientation equivalence in an original, strongly typed, Wirthian manner)</li>
+<li><a href="/wiki/Object_Pascal">Object Pascal</a></li>
+<li><a href="/wiki/Object_REXX">Object REXX</a></li>
+<li><a href="/wiki/Objective-C">Objective-C</a> (a superset of C adding a <a href="/wiki/Smalltalk">Smalltalk</a> derived object model and message passing syntax)</li>
+<li><a href="/wiki/Objective_Caml">Objective Caml</a></li>
+<li><a href="/wiki/Oz_(programming_language)" title="Oz (programming language)">Oz</a>
+<ul>
+<li><a href="/wiki/Mozart_Programming_System">Mozart Programming System</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Perl" title="Perl">Perl 5</a></li>
+<li><a href="/wiki/PHP">PHP</a></li>
+<li><a href="/w/index.php?title=Pliant&amp;action=edit&amp;redlink=1" class="new" title="Pliant (page does not exist)">Pliant</a></li>
+<li><a href="/w/index.php?title=Ppc%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Ppc++ (page does not exist)">ppC++</a></li>
+<li><a href="/wiki/Prograph">Prograph</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (object oriented interpretive language)</li>
+<li><a href="/wiki/Revolution_(programming_language)" title="Revolution (programming language)" class="mw-redirect">Revolution</a> (programmer does not get to pick the objects)</li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></li>
+<li><a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a></li>
+<li><a href="/w/index.php?title=Seccia&amp;action=edit&amp;redlink=1" class="new" title="Seccia (page does not exist)">Seccia</a> (assisted object-oriented programming)</li>
+<li><a href="/wiki/Simula">Simula</a> (the first object oriented language, developed by <a href="/wiki/Ole-Johan_Dahl">Ole-Johan Dahl</a> and <a href="/wiki/Kristen_Nygaard">Kristen Nygaard</a>)</li>
+<li><a href="/wiki/Smalltalk">Smalltalk</a> (pure object-orientation, developed at <a href="/wiki/PARC_(company)" title="PARC (company)">Xerox PARC</a>)
+<ul>
+<li><a href="/wiki/Bistro_(programming_language)" title="Bistro (programming language)">Bistro</a></li>
+<li><a href="/wiki/F-Script_(programming_language)" title="F-Script (programming language)">F-Script</a></li>
+<li><a href="/wiki/Little_Smalltalk">Little Smalltalk</a></li>
+<li><a href="/wiki/Squeak">Squeak</a>
+<ul>
+<li><a href="/wiki/Scratch_(programming_language)" title="Scratch (programming language)">Scratch</a></li>
+</ul>
+</li>
+<li><a href="/wiki/IBM_VisualAge">IBM VisualAge</a></li>
+<li><a href="/wiki/VisualWorks">VisualWorks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Parallax_Propeller" title="Parallax Propeller">SPIN</a></li>
+<li><a href="/wiki/SuperCollider">SuperCollider</a></li>
+<li><a href="/wiki/VBScript">VBScript</a> (Microsoft Office 'macro scripting' language)</li>
+<li><a href="/wiki/Visual_DataFlex">Visual DataFlex</a></li>
+<li><a href="/wiki/Visual_FoxPro">Visual FoxPro</a></li>
+<li><a href="/wiki/Visual_Prolog">Visual Prolog</a></li>
+<li><a href="/wiki/Microsoft_Dynamics_AX" title="Microsoft Dynamics AX">X++</a></li>
+<li><a href="/wiki/XOTcl">XOTcl</a></li>
+</ul>
+<h2><span class="mw-headline" id="Object-oriented_prototype-based_languages">Object-oriented prototype-based languages</span></h2>
+<p><a href="/wiki/Prototype-based_programming" title="Prototype-based programming">Prototype-based languages</a> are object-oriented languages where the distinction between classes and instances has been removed:</p>
+<ul>
+<li><a href="/wiki/Actor-Based_Concurrent_Language" title="Actor-Based Concurrent Language">ABCL/1</a></li>
+<li><a href="/wiki/Actor-Based_Concurrent_Language" title="Actor-Based Concurrent Language">ABCL/R</a></li>
+<li><a href="/wiki/Actor-Based_Concurrent_Language" title="Actor-Based Concurrent Language">ABCL/R2</a></li>
+<li><a href="/wiki/Actor-Based_Concurrent_Language" title="Actor-Based Concurrent Language">ABCL/c plus</a></li>
+<li><a href="/wiki/Agora_(programming_language)" title="Agora (programming language)">Agora</a></li>
+<li><a href="/wiki/Cecil_(programming_language)" title="Cecil (programming language)">Cecil</a></li>
+<li><a href="/wiki/ECMAScript">ECMAScript</a>
+<ul>
+<li><a href="/wiki/ActionScript">ActionScript</a></li>
+<li><a href="/w/index.php?title=DMDScript&amp;action=edit&amp;redlink=1" class="new" title="DMDScript (page does not exist)">DMDScript</a></li>
+<li><a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a></li>
+<li><a href="/wiki/JavaScript">JavaScript</a> (first named <b>Mocha</b>, then <b>LiveScript</b>)</li>
+<li><a href="/wiki/JScript">JScript</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Etoys_(programming_language)" title="Etoys (programming language)">Etoys</a> in <a href="/wiki/Squeak">Squeak</a></li>
+<li><a href="http://www.ozonehouse.com/mark/codeworks.html" class="external text" rel="nofollow">Glyphic Script</a></li>
+<li><a href="/wiki/Io_(programming_language)" title="Io (programming language)">Io</a></li>
+<li><a href="/wiki/Lisaac">Lisaac</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/wiki/MOO_(programming_language)" title="MOO (programming language)">MOO</a></li>
+<li><a href="/wiki/NewtonScript">NewtonScript</a></li>
+<li><a href="/wiki/Obliq">Obliq</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/REBOL">REBOL</a></li>
+<li><a href="/wiki/Self_(programming_language)" title="Self (programming language)">Self</a> (the first prototype-based language, derived from <a href="/wiki/Smalltalk">Smalltalk</a>)</li>
+<li><a href="/wiki/Slate_(programming_language)" title="Slate (programming language)">Slate</a></li>
+<li><a href="/wiki/TADS">TADS</a></li>
+</ul>
+<h2><span class="mw-headline" id="Off-side_rule_languages">Off-side rule languages</span></h2>
+<p><a href="/wiki/Off-side_rule">Off-side rule</a> languages are those where blocks are formed, indicated, by their <a href="/wiki/Indentation">indentation</a>.</p>
+<ul>
+<li><a href="/wiki/ISWIM">ISWIM</a>, the abstract language that introduced the rule</li>
+<li><a href="/wiki/ABC_(programming_language)" title="ABC (programming language)">ABC</a>, Python's parent
+<ul>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>
+<ul>
+<li><a href="/wiki/Cobra_(programming_language_from_Cobra_Language_LLC)" title="Cobra (programming language from Cobra Language LLC)">Cobra</a></li>
+<li><a href="/wiki/Boo_(programming_language)" title="Boo (programming language)">Boo</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/HyperTalk">HyperTalk</a></li>
+<li><a href="/w/index.php?title=Ivy_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Ivy (programming language) (page does not exist)">Ivy</a></li>
+<li><a href="/wiki/Miranda_(programming_language)" title="Miranda (programming language)">Miranda</a>, Haskell's parent
+<ul>
+<li><a href="/wiki/Orwell_(programming_language)" title="Orwell (programming language)">Orwell</a></li>
+<li><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a>
+<ul>
+<li><a href="/wiki/Curry_(programming_language)" title="Curry (programming language)">Curry</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a></li>
+<li><a href="/wiki/Occam_(programming_language)" title="Occam (programming language)">Occam</a></li>
+<li><a href="/w/index.php?title=Pliant&amp;action=edit&amp;redlink=1" class="new" title="Pliant (page does not exist)">Pliant</a></li>
+<li><a href="/wiki/Parallax_Propeller" title="Parallax Propeller">SPIN</a></li>
+<li><a href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a></li>
+</ul>
+<h2><span class="mw-headline" id="Procedural_languages">Procedural languages</span></h2>
+<p><a href="/wiki/Procedural_programming">Procedural programming</a> languages are based on the concept of the unit and scope (the data viewing range of an executable code statement). A procedural program is composed of one or more units or modules, either user coded or provided in a code library; each module is composed of one or more procedures, also called a function, routine, subroutine, or method, depending on the language. Examples of procedural languages include:</p>
+<ul>
+<li><a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada</a> (multi-purpose language)</li>
+<li><a href="/wiki/ALGOL">ALGOL</a> (extremely influential language design. The second high level language compiler.)
+<ul>
+<li><a href="/wiki/SMALL" title="SMALL">SMALL Machine Algol Like Language</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Alma-0">Alma-0</a></li>
+<li><a href="/wiki/BASIC">BASIC</a> (BASICs are innocent of most modularity in (especially) versions before about 1990)</li>
+<li><a href="/wiki/BCPL">BCPL</a></li>
+<li><a href="/wiki/BLISS_(programming_language)" title="BLISS (programming language)" class="mw-redirect">BLISS</a></li>
+<li><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></li>
+<li><a href="/wiki/C%2B%2B">C++</a> (C with objects + much else)</li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a> (similar to Java/C++)</li>
+<li><a href="/wiki/ChucK">ChucK</a> (C/Java-like syntax, with new syntax elements for time and parallelism)</li>
+<li><a href="/wiki/COBOL">COBOL</a></li>
+<li><a href="/wiki/Cobra_(programming_language_from_Cobra_Language_LLC)" title="Cobra (programming language from Cobra Language LLC)">Cobra</a></li>
+<li><a href="/wiki/ColdFusion">ColdFusion</a></li>
+<li><a href="/wiki/Combined_Programming_Language">Combined Programming Language</a> (CPL)</li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/D_(programming_language)" title="D (programming language)">D</a></li>
+<li><a href="/wiki/DASL_-_Distributed_Application_Specification_Language" title="DASL - Distributed Application Specification Language" class="mw-redirect">DASL</a> <small>(partly <a href="/wiki/Declarative_programming" title="Declarative programming">declarative</a>, partly <a href="/wiki/Imperative_programming" title="Imperative programming">imperative</a>)</small></li>
+<li><a href="http://borgdylan.web.officelive.com/dylandotnet.aspx" class="external text" rel="nofollow">dylan.NET</a></li>
+<li><a href="/w/index.php?title=EC_(Programming_language)&amp;action=edit&amp;redlink=1" class="new" title="EC (Programming language) (page does not exist)">eC (Ecere C)</a></li>
+<li><a href="/wiki/ECMAScript">ECMAScript</a>
+<ul>
+<li><a href="/wiki/ActionScript">ActionScript</a></li>
+<li><a href="/w/index.php?title=DMDScript&amp;action=edit&amp;redlink=1" class="new" title="DMDScript (page does not exist)">DMDScript</a></li>
+<li><a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a></li>
+<li><a href="/wiki/JavaScript">JavaScript</a> (first named <b>Mocha</b>, then <b>LiveScript</b>)</li>
+<li><a href="/wiki/JScript">JScript</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a></li>
+<li><a href="/wiki/Fortran">Fortran</a> (better modularity in later Standards)
+<ul>
+<li><a href="/wiki/F_(programming_language)" title="F (programming language)">F</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harbour_(software)" title="Harbour (software)">Harbour</a></li>
+<li><a href="/wiki/HyperTalk">HyperTalk</a></li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>
+<ul>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+<li><a href="/wiki/Join_Java">Join Java</a></li>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a></li>
+</ul>
+</li>
+<li><a href="/wiki/JOVIAL">JOVIAL</a></li>
+<li><a href="/wiki/Lasso_(programming_language)" title="Lasso (programming language)">Lasso</a></li>
+<li><a href="/wiki/Modula-2">Modula-2</a> (fundamentally based on modules)</li>
+<li><a href="/wiki/Oberon_(programming_language)" title="Oberon (programming language)">Oberon and Oberon-2</a> (improved, smaller, faster, safer follow-ons for Modula-2)
+<ul>
+<li><a href="/wiki/Component_Pascal">Component Pascal</a></li>
+<li><a href="/wiki/Lagoona_(programming_language)" title="Lagoona (programming language)">Lagoona</a></li>
+<li><a href="/wiki/Oberon-2_(programming_language)" title="Oberon-2 (programming language)">Seneca</a></li>
+</ul>
+</li>
+<li><a href="/wiki/MATLAB">MATLAB</a></li>
+<li><a href="/wiki/MUMPS">MUMPS</a> (more modular in its first release than a language of the time should have been; the standard has become still more modular since then)</li>
+<li>Nemerle</li>
+<li><a href="/wiki/Occam_(programming_language)" title="Occam (programming language)">Occam</a></li>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a> (successor to ALGOL 60, predecessor of Modula-2)
+<ul>
+<li><a href="/wiki/Free_Pascal">Free Pascal</a> (FPC)</li>
+<li><a href="/wiki/Object_Pascal">Object Pascal</a> (Delphi)</li>
+</ul>
+</li>
+<li><a href="/wiki/PCASTL">PCASTL</a></li>
+<li><a href="/wiki/Perl">Perl</a></li>
+<li><a href="/wiki/PL/C">PL/C</a></li>
+<li><a href="/wiki/PL/I">PL/I</a> (large general purpose language, originally for IBM mainframes)</li>
+<li><a href="/wiki/Plus_(programming_language)" title="Plus (programming language)">Plus</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/Rapira">Rapira</a></li>
+<li><a href="/wiki/IBM_RPG" title="IBM RPG">RPG</a> (only available in <a href="/wiki/IBM">IBM</a>'s <a href="/wiki/IBM_System_i" title="IBM System i">System i</a> midrange computers)</li>
+<li><a href="/wiki/S-Lang_(programming_language)" title="S-Lang (programming language)">S-Lang</a></li>
+<li><a href="/wiki/VBScript">VBScript</a></li>
+<li><a href="/wiki/Visual_Basic">Visual Basic</a></li>
+<li><a href="/wiki/Visual_FoxPro">Visual FoxPro</a></li>
+<li><a href="/wiki/Microsoft_Dynamics_AX" title="Microsoft Dynamics AX">X++</a></li>
+<li><a href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a></li>
+<li><a href="http://xmlmosaic.codeplex.com" class="external text" rel="nofollow">XMLmosaic</a></li>
+</ul>
+<h2><span class="mw-headline" id="Reflective_languages">Reflective languages</span></h2>
+<p><a href="/wiki/Reflection_(computer_science)" title="Reflection (computer science)" class="mw-redirect">Reflective languages</a> let programs examine and possibly modify their high level structure at runtime. This is most common in high-level virtual machine programming languages like <a href="/wiki/Smalltalk">Smalltalk</a>, and less common in lower-level programming languages like <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>. Languages and platforms supporting reflection:</p>
+<ul>
+<li><a href="/wiki/Aspect-oriented_programming" title="Aspect-oriented programming">Aspect-oriented</a></li>
+<li><a href="/wiki/Befunge">Befunge</a></li>
+<li><a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a></li>
+<li><a href="/wiki/ChucK">ChucK</a></li>
+<li><a href="/wiki/Cobra_(programming_language_from_Cobra_Language_LLC)" title="Cobra (programming language from Cobra Language LLC)">Cobra</a></li>
+<li><a href="/wiki/Component_Pascal">Component Pascal</a> <a href="/wiki/BlackBox_Component_Builder">BlackBox Component Builder</a></li>
+<li><a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a></li>
+<li><a href="/wiki/Object_Pascal" title="Object Pascal">Delphi</a></li>
+<li><a href="/wiki/ECMAScript">ECMAScript</a>
+<ul>
+<li><a href="/wiki/ActionScript">ActionScript</a></li>
+<li><a href="/w/index.php?title=DMDScript&amp;action=edit&amp;redlink=1" class="new" title="DMDScript (page does not exist)">DMDScript</a></li>
+<li><a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a></li>
+<li><a href="/wiki/JavaScript">JavaScript</a></li>
+<li><a href="/wiki/JScript">JScript</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a></li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a></li>
+<li><a href="/wiki/Harbour_(software)" title="Harbour (software)">Harbour</a></li>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>
+<ul>
+<li><a href="/wiki/Java_Virtual_Machine">Java Virtual Machine</a></li>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+<li><a href="/wiki/Join_Java">Join Java</a></li>
+<li><a href="/wiki/X10_(programming_language)" title="X10 (programming language)">X10</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>
+<ul>
+<li><a href="/wiki/Clojure">Clojure</a></li>
+<li><a href="/wiki/Common_Lisp">Common Lisp</a></li>
+<li><a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a></li>
+<li><a href="/wiki/Logo_(programming_language)" title="Logo (programming language)">Logo</a></li>
+<li><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/wiki/Maude_system">Maude system</a></li>
+<li><a href="/wiki/.NET_Framework">.NET Framework</a> <a href="/wiki/Common_Language_Runtime">Common Language Runtime</a></li>
+<li><a href="/wiki/Oberon-2_(programming_language)" title="Oberon-2 (programming language)">Oberon-2</a> ETH Oberon System</li>
+<li><a href="/wiki/Objective-C">Objective-C</a></li>
+<li><a href="/wiki/PCASTL">PCASTL</a></li>
+<li><a href="/wiki/Perl">Perl</a></li>
+<li><a href="/wiki/PHP">PHP</a></li>
+<li><a href="/wiki/Pico_(programming_language)" title="Pico (programming language)">Pico</a></li>
+<li><a href="/w/index.php?title=Pliant&amp;action=edit&amp;redlink=1" class="new" title="Pliant (page does not exist)">Pliant</a></li>
+<li><a href="/wiki/Poplog">Poplog</a>
+<ul>
+<li><a href="/wiki/POP-11">POP-11</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Prolog">Prolog</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/REBOL">REBOL</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></li>
+<li><a href="/wiki/Smalltalk">Smalltalk</a> (pure object-orientation, originally from <a href="/wiki/PARC_(company)" title="PARC (company)">Xerox PARC</a>)
+<ul>
+<li><a href="/wiki/Bistro_(programming_language)" title="Bistro (programming language)">Bistro</a></li>
+<li><a href="/wiki/F-Script_(programming_language)" title="F-Script (programming language)">F-Script</a></li>
+<li><a href="/wiki/Little_Smalltalk">Little Smalltalk</a></li>
+<li><a href="/wiki/Self_(programming_language)" title="Self (programming language)">Self</a></li>
+<li><a href="/wiki/Squeak">Squeak</a></li>
+<li><a href="/wiki/IBM_VisualAge">IBM VisualAge</a></li>
+<li><a href="/wiki/VisualWorks">VisualWorks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/SNOBOL">Snobol</a></li>
+<li><a href="/wiki/Tcl">Tcl</a>
+<ul>
+<li><a href="/wiki/XOTcl">XOTcl</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Microsoft_Dynamics_AX" title="Microsoft Dynamics AX">X++</a></li>
+<li><a href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a></li>
+</ul>
+<h2><span class="mw-headline" id="Rule-based_languages">Rule-based languages</span></h2>
+<p>Rule-based languages instantiate rules when activated by conditions in a set of data. Of all possible activations, some set will be selected and the statements belonging to those rules will be executed. Examples of rule-based languages include:</p>
+<ul>
+<li><a href="/wiki/Awk" class="mw-redirect" title="Awk">awk</a></li>
+<li><a href="/wiki/CLIPS">CLIPS</a></li>
+<li><a href="/wiki/Constraint_Handling_Rules">Constraint Handling Rules</a></li>
+<li><a href="/wiki/GOAL_Agent_Programming_Language" title="GOAL Agent Programming Language">GOAL (agent programming language)</a></li>
+<li><a href="/wiki/Jess_(programming_language)" title="Jess (programming language)">Jess</a></li>
+<li><a href="/wiki/OPS5">OPS5</a></li>
+<li><a href="/wiki/Prolog">Prolog</a></li>
+<li><a href="/w/index.php?title=Poses%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="Poses++ (page does not exist)">Poses++</a> <small>(language of the simulation system with the same name)</small></li>
+</ul>
+<h2><span class="mw-headline" id="Scripting_languages">Scripting languages</span></h2>
+<p>"<a href="/wiki/Scripting_language">Scripting language</a>" has two apparently different, but in fact similar meanings. In a traditional sense, scripting languages are designed to automate frequently used tasks that usually involve calling or passing commands to external programs. Many complex application programs allow users to implement custom functions by providing them with built-in languages. Those which are of <a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">interpretive</a> type, are often called scripting languages.</p>
+<p>More recently many of these applications have chosen to "build in" traditional scripting languages, such as <a href="/wiki/Perl">Perl</a> or <a href="/wiki/Visual_Basic">Visual Basic</a>, but there are quite a few "native" scripting languages still in use. Many scripting languages are compiled to bytecode and then this (usually) platform independent bytecode is run through a virtual machine (compare to <a href="/wiki/Java_Virtual_Machine" title="Java Virtual Machine">Java</a>).</p>
+<ul>
+<li><a href="/wiki/AppleScript">AppleScript</a></li>
+<li><a href="/wiki/AWK">AWK</a></li>
+<li><a href="/wiki/BeanShell">BeanShell</a></li>
+<li><a href="/wiki/Ch_interpreter" title="Ch interpreter">Ch</a> (Embeddable C/C++ interpreter)</li>
+<li><a href="/wiki/CLIST">CLIST</a></li>
+<li><a href="/wiki/ColdFusion">ColdFusion</a></li>
+<li><a href="/wiki/ECMAScript">ECMAScript</a>
+<ul>
+<li><a href="/wiki/ActionScript">ActionScript</a></li>
+<li><a href="/w/index.php?title=DMDScript&amp;action=edit&amp;redlink=1" class="new" title="DMDScript (page does not exist)">DMDScript</a></li>
+<li><a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a></li>
+<li><a href="/wiki/JavaScript">JavaScript</a> (first named <b>Mocha</b>, then <b>LiveScript</b>)</li>
+<li><a href="/wiki/JScript">JScript</a></li>
+</ul>
+</li>
+<li><a href="/wiki/CMS_EXEC">CMS EXEC</a></li>
+<li><a href="/wiki/EXEC_2">EXEC 2</a></li>
+<li><a href="/wiki/F-Script_(programming_language)" title="F-Script (programming language)">F-Script</a></li>
+<li><a href="/wiki/Falcon_(programming_language)" title="Falcon (programming language)">Falcon</a></li>
+<li><a href="/wiki/Fancy_(programming_language)" title="Fancy (programming language)">Fancy</a></li>
+<li><a href="/wiki/Frink">Frink</a></li>
+<li><a href="/wiki/Game_Maker_Language">Game Maker Language</a> (GML)</li>
+<li><a href="/wiki/ICI_(programming_language)" title="ICI (programming language)">ICI</a></li>
+<li><a href="/wiki/Io_(programming_language)" title="Io (programming language)">Io</a></li>
+<li><a href="/wiki/JASS">JASS</a></li>
+<li><a href="/wiki/Groovy_(programming_language)" title="Groovy (programming language)">Groovy</a></li>
+<li><a href="/wiki/Join_Java">Join Java</a></li>
+<li><a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a></li>
+<li><a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></li>
+<li><a href="/w/index.php?title=MAXScript&amp;action=edit&amp;redlink=1" class="new" title="MAXScript (page does not exist)">MAXScript</a></li>
+<li><a href="/wiki/Maya_Embedded_Language" title="Maya Embedded Language">MEL</a></li>
+<li><a href="/w/index.php?title=Mondrian_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Mondrian (programming language) (page does not exist)">Mondrian</a></li>
+<li><a href="/w/index.php?title=Mythryl&amp;action=edit&amp;redlink=1" class="new" title="Mythryl (page does not exist)">Mythryl</a></li>
+<li><a href="/wiki/Perl">Perl</a></li>
+<li><a href="/wiki/PHP">PHP</a> (intended for Web servers)</li>
+<li><a href="/wiki/PIKT">Pikt</a></li>
+<li><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a></li>
+<li><a href="/wiki/REBOL">REBOL</a></li>
+<li><a href="/wiki/REXX">REXX</a></li>
+<li><a href="/wiki/Revolution_(programming_language)" title="Revolution (programming language)" class="mw-redirect">Revolution</a></li>
+<li><a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></li>
+<li><a href="/wiki/Smalltalk">Smalltalk</a></li>
+<li><a href="/wiki/S-Lang_(programming_language)" title="S-Lang (programming language)">S-Lang</a></li>
+<li><a href="/wiki/Sed">sed</a></li>
+<li><a href="/wiki/Tcl">Tcl</a></li>
+<li><a href="/w/index.php?title=TorqueScript_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="TorqueScript (programming language) (page does not exist)">TorqueScript</a></li>
+<li><a href="/wiki/VBScript">VBScript</a></li>
+<li><a href="/wiki/Windows_PowerShell">Windows PowerShell</a> (<a href="/wiki/Microsoft">Microsoft</a> <a href="/wiki/.NET_Framework" title=".NET Framework">.NET</a>-based CLI)</li>
+<li><a href="/wiki/Winbatch">Winbatch</a></li>
+<li>Many shell command languages such as the <a href="/wiki/Bourne_shell" title="Bourne shell">UNIX shell</a> or <a href="/w/index.php?title=DCL_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="DCL (programming language) (page does not exist)">DCL</a> on VMS have powerful scripting capabilities.</li>
+</ul>
+<h2><span class="mw-headline" id="Stack-based_languages">Stack-based languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Stack-oriented_programming_languages">Category:Stack-oriented programming languages</a></div>
+<p>Stack-based languages are a type of <a href="/wiki/Data-structured_language">data-structured language</a> that are based upon the <a href="/wiki/Stack_(data_structure)" title="Stack (data structure)">stack</a> data structure.</p>
+<ul>
+<li><a href="/wiki/Cat_(programming_language)" title="Cat (programming language)">Cat</a></li>
+<li><a href="/wiki/ColorForth">colorForth</a></li>
+<li><a href="/wiki/Factor_(programming_language)" title="Factor (programming language)">Factor</a></li>
+<li><a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a></li>
+<li><a href="/wiki/Joy_(programming_language)" title="Joy (programming language)">Joy</a> (all functions work on parameter stacks instead of named parameters)</li>
+<li><a href="/wiki/Piet_(programming_language)" title="Piet (programming language)">Piet</a></li>
+<li><a href="/wiki/Poplog">Poplog</a> via its implementation language <a href="/wiki/POP-11">POP-11</a></li>
+<li><a href="/wiki/PostScript">PostScript</a></li>
+<li><a href="/wiki/RPL_(programming_language)" title="RPL (programming language)">RPL</a></li>
+<li><a href="/w/index.php?title=Urq&amp;action=edit&amp;redlink=1" class="new" title="Urq (page does not exist)">Urq</a></li>
+</ul>
+<h2><span class="mw-headline" id="Synchronous_languages">Synchronous languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Synchronous_programming_languages">Category:Synchronous programming languages</a></div>
+<p><a href="/wiki/Synchronous_programming_language" title="Synchronous programming language">Synchronous programming languages</a> are optimized for programming reactive systems, systems that are often interrupted and must respond quickly. Many such systems are also called <a href="/wiki/Real-time_computing" title="Real-time computing">realtime systems</a>, and are found often in <a href="/wiki/Embedded_system" title="Embedded system">embedded uses</a>. Examples:</p>
+<ul>
+<li><a href="/wiki/Argus_(programming_language)" title="Argus (programming language)">Argus</a></li>
+<li><a href="/wiki/Averest">Averest</a></li>
+<li><a href="/wiki/Esterel">Esterel</a></li>
+<li><a href="/w/index.php?title=LEA_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="LEA (programming language) (page does not exist)">LEA</a></li>
+<li><a href="/wiki/Lustre_(programming_language)" title="Lustre (programming language)">Lustre</a></li>
+<li><a href="/w/index.php?title=Signal_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Signal (programming language) (page does not exist)">Signal</a></li>
+<li><a href="/wiki/SyncCharts">SyncCharts</a></li>
+</ul>
+<h2><span class="mw-headline" id="Syntax_handling_languages">Syntax handling languages</span></h2>
+<p>These languages assist with generating <a href="/wiki/Lexical_analysis" title="Lexical analysis">lexical analzyers</a> and <a href="/wiki/Parsing" title="Parsing">parsers</a> for <a href="/wiki/Context-free_grammar" title="Context-free grammar">Context-free grammars</a>.</p>
+<ul>
+<li><a href="/wiki/ANTLR">ANTLR</a></li>
+<li><a href="/wiki/Coco/R">Coco/R</a> (EBNF with semantics)</li>
+<li><a href="/wiki/GNU_bison">GNU bison</a> (FSF's version of Yacc)</li>
+<li>GNU <a href="/wiki/Flex_lexical_analyser" title="Flex lexical analyser">Flex</a> (FSF's version of Lex)</li>
+<li><a href="/wiki/Lex_(software)" title="Lex (software)">lex</a> (Lexical Analysis, from Bell Labs)</li>
+<li><a href="/wiki/M4_(computer_language)" title="M4 (computer language)">M4</a></li>
+<li><a href="/wiki/Yacc">yacc</a> (yet another compiler compiler, from Bell Labs)</li>
+<li><a href="/wiki/JavaCC">JavaCC</a></li>
+<li><a href="/w/index.php?title=Rats!&amp;action=edit&amp;redlink=1" class="new" title="Rats! (page does not exist)">Rats!</a></li>
+</ul>
+<h2><span class="mw-headline" id="Visual_languages">Visual languages</span></h2>
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Category:Visual_programming_languages">Category:Visual programming languages</a></div>
+<p><a href="/wiki/Visual_programming_language" title="Visual programming language">Visual programming languages</a> let users specify programs in a two-(or more)-dimensional way, instead of as one-dimensional text strings, via graphic layouts of various types.</p>
+<ul>
+<li><a href="/wiki/CODE_(programming_language)" title="CODE (programming language)">CODE</a></li>
+<li><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a> (program design from BON or <a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a> diagrams, with back-and-forth facilities (round-trip engineering) through <a href="/wiki/EiffelStudio">EiffelStudio</a>)</li>
+<li><a href="/wiki/Fabrik_(software)" title="Fabrik (software)">Fabrik</a></li>
+<li><a href="/w/index.php?title=FlowStone_DSP&amp;action=edit&amp;redlink=1" class="new" title="FlowStone DSP (page does not exist)">FlowStone DSP</a></li>
+<li><a href="/w/index.php?title=Hyperpascal&amp;action=edit&amp;redlink=1" class="new" title="Hyperpascal (page does not exist)">Hyperpascal</a></li>
+<li><a href="/wiki/LabVIEW">LabVIEW</a></li>
+<li><a href="/wiki/Lava_(programming_language)" title="Lava (programming language)">Lava</a></li>
+<li><a href="/wiki/Limnor">Limnor</a></li>
+<li>Mindscript — software visualization and development environment, <a href="/wiki/Open_source">open source</a></li>
+<li><a href="/wiki/Max_(software)" title="Max (software)">Max</a></li>
+<li><a href="/wiki/Lego_Mindstorms_NXT#NXT-G" title="Lego Mindstorms NXT">NXT-G</a></li>
+<li><a href="/wiki/Pict_(programming_language)" title="Pict (programming language)">Pict programming language</a></li>
+<li><a href="/wiki/Prograph">Prograph</a></li>
+<li><a href="/wiki/Pure_Data">Pure Data</a></li>
+<li><a href="/wiki/Apple_Developer_Tools#Quartz_Composer" title="Apple Developer Tools">Quartz Composer</a></li>
+<li><a href="/wiki/Scratch_(programming_language)" title="Scratch (programming language)">Scratch</a> (written in and based on <a href="/wiki/Squeak">Squeak</a>, a version of <a href="/wiki/Smalltalk">Smalltalk</a>)</li>
+<li><a href="/wiki/Simulink">Simulink</a></li>
+<li><a href="/wiki/Spreadsheet" title="Spreadsheet">Spreadsheets</a></li>
+<li><a href="/wiki/Subtext_(programming_language)" title="Subtext (programming language)">Subtext</a></li>
+<li><a href="/w/index.php?title=Tinkertoy_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Tinkertoy (programming language) (page does not exist)">Tinkertoy</a></li>
+<li><a href="/wiki/Agilent_VEE" title="Agilent VEE">VEE</a></li>
+<li><a href="/wiki/VisSim">VisSim</a></li>
+<li><a href="/wiki/Vvvv">vvvv</a></li>
+<li><a href="/wiki/EICASLAB">EICASLAB</a></li>
+<li><a href="/wiki/Virtools">Virtools</a></li>
+</ul>
+<p>Some <a href="/wiki/Dataflow_programming">dataflow programming</a> languages are also visual languages.</p>
+<h2><span class="mw-headline" id="Wirth_languages">Wirth languages</span></h2>
+<p>Computer scientist <a href="/wiki/Niklaus_Wirth">Niklaus Wirth</a> designed and implemented several influential languages.</p>
+<ul>
+<li><a href="/wiki/ALGOL_W">ALGOL W</a></li>
+<li><a href="/wiki/Modula">Modula</a></li>
+<li><a href="/wiki/Modula-2">Modula-2</a> (and Modula 3, etc. variants)
+<ul>
+<li><a href="/wiki/Obliq">Obliq</a> Modula 3 variant</li>
+</ul>
+</li>
+<li><a href="/wiki/Oberon_(programming_language)" title="Oberon (programming language)">Oberon</a> (Oberon, Oberon-07, and Oberon-2)
+<ul>
+<li><a href="/wiki/Component_Pascal">Component Pascal</a></li>
+<li><a href="/wiki/Lagoona_(programming_language)" title="Lagoona (programming language)">Lagoona</a></li>
+<li><a href="/wiki/Oberon-2_(programming_language)" title="Oberon-2 (programming language)">Oberon-2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a>
+<ul>
+<li><a href="/wiki/Object_Pascal">Object Pascal</a> (original name for <a href="/wiki/CodeGear_Delphi" title="CodeGear Delphi" class="mw-redirect">Borland Delphi</a> language)</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="XML-based_languages">XML-based languages</span></h2>
+<p>These are languages based on or that operate on <a href="/wiki/XML">XML</a>. Although the big-boy equivalents of Oracle/PostgreSQL/MSSQL don't yet exist for XML, there are languages to navigate through it and its more tree-oriented structure.</p>
+<ul>
+<li><a href="/wiki/Apache_Ant" title="Apache Ant">Ant</a></li>
+<!--
+<li><a href="/wiki/C%CF%89">Cω</a></li>
+-->
+<li><a href="/wiki/ECMAScript">ECMAScript</a> <a href="/wiki/ECMAScript_for_XML">ECMAScript for XML</a></li>
+<li><a href="/w/index.php?title=Jelly_(Programming_Language)&amp;action=edit&amp;redlink=1" class="new" title="Jelly (Programming Language) (page does not exist)">Jelly</a></li>
+<li><a href="/wiki/OpenLaszlo" title="OpenLaszlo">LZX</a></li>
+<li><a href="/wiki/MXML">MXML</a></li>
+<li><a href="/wiki/XPath">XPath</a></li>
+<li><a href="/wiki/XQuery">XQuery</a></li>
+<li><a href="/wiki/XSL_Transformations" title="XSL Transformations" class="mw-redirect">XSLT</a></li>
+<li><a href="http://xmlmosaic.codeplex.com" class="external text" rel="nofollow">XMLmosaic</a></li>
+</ul>
+<!--
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigms</a></li>
+<li><a href="/wiki/IEC_61131-3">IEC 61131-3</a> - a standard for <a href="/wiki/Programmable_logic_controller" title="Programmable logic controller">PLC</a> programming languages</li>
+<li><a href="/wiki/Educational_programming_language" class="mw-redirect" title="Educational programming language">Educational programming language</a></li>
+<li><a href="/wiki/Esoteric_programming_language">Esoteric programming language</a></li>
+</ul>
+-->
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1257/1000000
+Post-expand include size: 9368/2048000 bytes
+Template argument size: 3916/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:144144-0!*!0!!en!*!edit=0 and timestamp 20110315232221 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/List_of_programming_languages_by_category">http://en.wikipedia.org/wiki/List_of_programming_languages_by_category</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Lists_of_programming_languages" title="Category:Lists of programming languages">Lists of programming languages</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="/wiki/Category:Articles_with_links_needing_disambiguation" title="Category:Articles with links needing disambiguation">Articles with links needing disambiguation</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List_of_programming_languages_by_category" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_programming_languages_by_category"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:List_of_programming_languages_by_category"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/List_of_programming_languages_by_category" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=List_of_programming_languages_by_category&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible "><span><a href="/w/index.php?title=List_of_programming_languages_by_category&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input id="searchInput" name="search" type="text"  title="Search Wikipedia [f]" accesskey="f"  value="" />
+						<button id="searchButton" type='submit' name='button'  title="Search Wikipedia for this text"><img src="http://bits.wikimedia.org/skins-1.17/vector/images/search-ltr.png?301-2" alt="Search" /></button>
+					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+					<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+					<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+					<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+					<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+				<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+					<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+					<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_programming_languages_by_category" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_programming_languages_by_category" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																					<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=List_of_programming_languages_by_category&amp;oldid=418712934" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=List_of_programming_languages_by_category&amp;id=418712934" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+programming+languages+by+category" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=List+of+programming+languages+by+category&amp;oldid=418712934&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_programming_languages_by_category&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-hi"><a href="http://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A8_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%93%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80_(%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%BE%E0%A4%B0)" title="प्रोग्रामन भाषाओं की सूची (वर्गानुसार)">हिन्दी</a></li>
+					<li class="interwiki-hu"><a href="http://hu.wikipedia.org/wiki/Programoz%C3%A1si_nyelvek_kateg%C3%B3ri%C3%A1k_szerint" title="Programozási nyelvek kategóriák szerint">Magyar</a></li>
+					<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7" title="プログラミング言語一覧">日本語</a></li>
+					<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%D0%BC" title="Список языков программирования по категориям">Русский</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 14 March 2011 at 01:52.<br /></li>
+																							<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+															</ul>
+											<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.17/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "List_of_programming_languages_by_category", "wgTitle": "List of programming languages by category", "wgAction": "view", "wgArticleId": 144144, "wgIsArticle": true, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 418712934, "wgCategories": ["Articles with links needing disambiguation", "Lists of programming languages"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgRevContents": {"error": "Unable to get content.", "waiting": "Waiting for content"}, "wgWikimediaMobileUrl": "http://en.m.wikipedia.org/wiki", "wgTrackingToken": "2c9eee68673656bd8071fd5348536b11", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.legacy.wikibits", "mediawiki.util", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.sectionEditLinks", "ext.vector.simpleSearch", "ext.articleFeedback.startup"]);
+	mediaWiki.loader.go();
+}
+</script>
+
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;301-2" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;version=20110308T014115Z" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":"3","watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":false,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false});
+	mediaWiki.loader.state({"user.options":"ready"});
+	
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:3:ae2156c08a06314b12473d37e57711e2 */
+}
+</script><script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<!-- Served by srv205 in 0.837 secs. -->			</body>
+</html>
